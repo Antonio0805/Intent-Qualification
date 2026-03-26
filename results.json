@@ -1,0 +1,4994 @@
+{
+  "Logistic companies in Romania": [
+    {
+      "company": "Compania Națională de Căi Ferate CFR",
+      "website": "cfr.ro",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.5222,
+      "reason": "State-owned railway company providing freight rail transport and logistics services across Romania."
+    },
+    {
+      "company": "Portul Constanta",
+      "website": "portofconstantza.com",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.4373,
+      "reason": "Maritime port authority that provides cargo handling, transshipment, and transit logistics services."
+    },
+    {
+      "company": "Brasov Industrial Portfolio",
+      "website": "brasov-industrialportfolio.ro",
+      "match": true,
+      "llm_score": 4,
+      "emb_score": 0.6109,
+      "reason": "Provides logistics facility leasing, warehousing, and logistics solutions directly in Romania."
+    },
+    {
+      "company": "Poșta Română",
+      "website": "posta-romana.ro",
+      "match": true,
+      "llm_score": 4,
+      "emb_score": 0.4904,
+      "reason": "Postal and parcel delivery service provider with customs clearance and nationwide logistics operations in Romania."
+    },
+    {
+      "company": "Transgaz",
+      "website": "transgaz.ro",
+      "match": true,
+      "llm_score": 4,
+      "emb_score": 0.4767,
+      "reason": "Operates gas transmission and dispatching with logistics/transportation business model, though primary focus is gas infrastructure rather than general logistics."
+    },
+    {
+      "company": "STILL",
+      "website": "still.ro",
+      "match": false,
+      "llm_score": 2,
+      "emb_score": 0.6269,
+      "reason": "Manufactures intralogistics equipment and supplies logistics solutions rather than providing logistics services."
+    },
+    {
+      "company": "OSCAR",
+      "website": "oscars.ro",
+      "match": false,
+      "llm_score": 2,
+      "emb_score": 0.5592,
+      "reason": "Petroleum products distributor with some logistics infrastructure, but primarily engaged in fuel distribution and sales."
+    },
+    {
+      "company": "Valbur",
+      "website": "vt-i.eu",
+      "match": false,
+      "llm_score": 2,
+      "emb_score": 0.5126,
+      "reason": "Global trade and investment facilitator with logistics management involvement, but primarily a trading and transaction management company."
+    },
+    {
+      "company": "Prutul",
+      "website": "prutul.ro",
+      "match": false,
+      "llm_score": 2,
+      "emb_score": 0.413,
+      "reason": "Vegetable oil producer with transport and storage services, not a primary logistics company."
+    },
+    {
+      "company": "METRO România",
+      "website": "metro.ro",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.5828,
+      "reason": "Wholesale distributor of food and non-food products, not a logistics company providing logistics services."
+    },
+    {
+      "company": "Fildas Trading",
+      "website": "fildas.ro",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.5684,
+      "reason": "Pharmaceutical and cosmetics wholesaler and retailer, not a logistics company."
+    },
+    {
+      "company": "Valtec",
+      "website": "valtec.nl",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.5475,
+      "reason": "Lubricants and industrial supplies distributor, not a logistics service provider."
+    },
+    {
+      "company": "Mercedes-Benz Trucks & Buses Romania",
+      "website": "mercedes-benz-trucks-mbb.ro",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.4937,
+      "reason": "Truck and bus distributor and service provider, not a logistics company."
+    },
+    {
+      "company": "Bunge Romania",
+      "website": "bunge-romania.ro",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.4788,
+      "reason": "Company processes agricultural commodities and manufactures food ingredients, not logistics services."
+    },
+    {
+      "company": "OMV",
+      "website": "omv.ro",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.4746,
+      "reason": "Company operates in oil and gas exploration, refining, and fuel retail, not logistics services."
+    },
+    {
+      "company": "Rompetrol",
+      "website": "rompetrol.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.4689,
+      "reason": "Company refines petroleum and manufactures petrochemical products; does not provide logistics services."
+    },
+    {
+      "company": "CBRE Romania",
+      "website": "cbre.ro",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.4654,
+      "reason": "Real estate services company; serves logistics industry but does not provide logistics services."
+    },
+    {
+      "company": "Dacia",
+      "website": "dacia.ro",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.458,
+      "reason": "Automobile manufacturer and distributor, not logistics services provider."
+    },
+    {
+      "company": "Rompetrol",
+      "website": "rompetrol.ro",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.4412,
+      "reason": "Petroleum refining and fuel distribution company, not logistics services provider."
+    },
+    {
+      "company": "Unilever",
+      "website": "unilever.ro",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.4372,
+      "reason": "Consumer goods distribution and retail company; does not provide third-party logistics services."
+    },
+    {
+      "company": "Romgaz",
+      "website": "romgaz.ro",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.4363,
+      "reason": "Natural gas extraction, production, and distribution company, not logistics services provider."
+    },
+    {
+      "company": "Sincron HR",
+      "website": "sincronhr.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.4191,
+      "reason": "Software company, does not provide logistics services."
+    },
+    {
+      "company": "AQUA CENTER",
+      "website": "aquacenter.ro",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.4101,
+      "reason": "Pipe and fitting manufacturer, does not provide logistics services."
+    },
+    {
+      "company": "European Drinks",
+      "website": "europeandrinks.ro",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.4067,
+      "reason": "Beverage manufacturer and distributor, does not provide logistics services."
+    },
+    {
+      "company": "TIMAC AGRO",
+      "website": "timacagro.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3605,
+      "reason": "Fertilizer and agricultural product manufacturer, does not provide logistics services."
+    },
+    {
+      "company": "EcoExpert Green Consulting",
+      "website": "ecoexpert.green",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3052,
+      "reason": "Environmental consulting company, does not provide logistics services."
+    }
+  ],
+  "Public software companies with more than 1,000 employees": [
+    {
+      "company": "Capgemini",
+      "website": "capgemini.com",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.3746,
+      "reason": "Public software and IT consulting company with 341,100 employees, well above 1,000 threshold."
+    },
+    {
+      "company": "EPAM",
+      "website": "epam.com",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.373,
+      "reason": "Public software engineering company with 62,050 employees, clearly exceeding 1,000 threshold."
+    },
+    {
+      "company": "Globant",
+      "website": "globant.com",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.3184,
+      "reason": "Public software development company with 29,150 employees, clearly exceeding 1,000 threshold."
+    },
+    {
+      "company": "Fujitsu",
+      "website": "fujitsu.com",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.3169,
+      "reason": "Public IT services and software solutions company with 124,000 employees, well above 1,000 threshold."
+    },
+    {
+      "company": "NTT DATA",
+      "website": "nttdata.com",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.3104,
+      "reason": "Public IT services and software solutions company with 195,100 employees, well above 1,000 threshold."
+    },
+    {
+      "company": "Genpact",
+      "website": "genpact.com",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.309,
+      "reason": "Public software/IT services company with 125,000 employees exceeding 1,000 threshold."
+    },
+    {
+      "company": "DWS Group",
+      "website": "hcltech.com",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.303,
+      "reason": "Public software/IT consulting company with 227,481 employees well exceeding 1,000 threshold."
+    },
+    {
+      "company": "Booz Allen",
+      "website": "boozallen.com",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.2922,
+      "reason": "Public software/IT consulting and services company with 34,200 employees exceeding 1,000 threshold."
+    },
+    {
+      "company": "Tata Consultancy Services",
+      "website": "tcs.com",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.29,
+      "reason": "Public software/IT services company with 607,979 employees well exceeding 1,000 threshold."
+    },
+    {
+      "company": "Atos",
+      "website": "atos.net",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.2863,
+      "reason": "Public software/IT services company with 94,000 employees exceeding 1,000 threshold."
+    },
+    {
+      "company": "CACI",
+      "website": "caci.com",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.2823,
+      "reason": "Public software and IT services company with 20,000 employees, exceeding the 1,000 employee threshold."
+    },
+    {
+      "company": "CGI",
+      "website": "cgi.com",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.2755,
+      "reason": "Public software and IT consulting company with 95,000 employees, exceeding the 1,000 employee threshold."
+    },
+    {
+      "company": "Wipro",
+      "website": "wipro.com",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.2552,
+      "reason": "Public software and IT services company with 233,346 employees, exceeding the 1,000 employee threshold."
+    },
+    {
+      "company": "Concentrix",
+      "website": "concentrix.com",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.233,
+      "reason": "Public software and technology services company with 440,000 employees, exceeding the 1,000 employee threshold."
+    },
+    {
+      "company": "ASGN",
+      "website": "asgn.com",
+      "match": true,
+      "llm_score": 4,
+      "emb_score": 0.4072,
+      "reason": "Public IT services and software solutions company with 21,000 employees, exceeding 1,000 threshold."
+    },
+    {
+      "company": "SAIC",
+      "website": "saic.com",
+      "match": true,
+      "llm_score": 4,
+      "emb_score": 0.3261,
+      "reason": "Public IT services and systems integration company with 25,000 employees, exceeding 1,000 threshold."
+    },
+    {
+      "company": "Leidos",
+      "website": "leidos.com",
+      "match": true,
+      "llm_score": 4,
+      "emb_score": 0.3253,
+      "reason": "Public IT services and systems integration company with 48,000 employees, exceeding 1,000 threshold."
+    },
+    {
+      "company": "Tietoevry",
+      "website": "tietoevry.com",
+      "match": true,
+      "llm_score": 4,
+      "emb_score": 0.3153,
+      "reason": "Public software development and IT consulting company with 23,632 employees, exceeding 1,000 threshold."
+    },
+    {
+      "company": "Mphasis",
+      "website": "mphasis.com",
+      "match": false,
+      "llm_score": 2,
+      "emb_score": 0.3033,
+      "reason": "Only 31,645 employees listed but company is public IT services; however, employee count falls short of 1,000+ requirement verification."
+    },
+    {
+      "company": "Bachem",
+      "website": "bachem.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3106,
+      "reason": "Pharmaceutical manufacturing company, not a software company."
+    },
+    {
+      "company": "Siegfried",
+      "website": "siegfried.ch",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.295,
+      "reason": "Pharmaceutical manufacturing company, not a software company."
+    },
+    {
+      "company": "Skanska",
+      "website": "skanska.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.2944,
+      "reason": "Construction and development company, not a software company."
+    },
+    {
+      "company": "Lonza",
+      "website": "lonza.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.2886,
+      "reason": "Pharmaceutical manufacturing company, not a software company."
+    },
+    {
+      "company": "PulteGroup",
+      "website": "pultegroup.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.286,
+      "reason": "Homebuilding/real estate company, not a software company."
+    },
+    {
+      "company": "Alcon",
+      "website": "aeriepharma.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.2833,
+      "reason": "Pharmaceutical manufacturing company, not a software company."
+    },
+    {
+      "company": "Novartis",
+      "website": "novartis.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.275,
+      "reason": "Pharmaceutical manufacturing company, not a software company."
+    },
+    {
+      "company": "EMCOR Group",
+      "website": "emcorgroup.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.2112,
+      "reason": "Construction and facilities management company, not a software company."
+    },
+    {
+      "company": "Lululemon",
+      "website": "lululemon.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.2039,
+      "reason": "Apparel retail company, not a software company."
+    },
+    {
+      "company": "Vestas",
+      "website": "vestas.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.1993,
+      "reason": "Wind turbine manufacturing company, not a software company."
+    },
+    {
+      "company": "US Foods",
+      "website": "usfoods.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.1943,
+      "reason": "Food distribution and wholesale company, not a software company."
+    },
+    {
+      "company": "Telefónica Venture Builder",
+      "website": "telefonica.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.1923,
+      "reason": "Venture builder and digital innovation provider, not a software company that develops and sells software products."
+    },
+    {
+      "company": "Quanta Services",
+      "website": "quantaservices.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.1885,
+      "reason": "Infrastructure contracting and engineering services company, not a software company."
+    },
+    {
+      "company": "The Home Depot",
+      "website": "homedepot.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.1817,
+      "reason": "Retail home improvement company, not a software company."
+    },
+    {
+      "company": "Fluor",
+      "website": "fluor.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.1712,
+      "reason": "Engineering, procurement, and construction services company, not a software company."
+    },
+    {
+      "company": "Walmart",
+      "website": "walmart.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.1689,
+      "reason": "Retail and wholesale company, not a software company."
+    },
+    {
+      "company": "Tutor Perini",
+      "website": "tutorperini.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.1539,
+      "reason": "Construction and contracting company, not a software company."
+    },
+    {
+      "company": "Romgaz",
+      "website": "romgaz.ro",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.1537,
+      "reason": "Natural gas exploration and energy company, not a software company."
+    }
+  ],
+  "Food and beverage manufacturers in France": [
+    {
+      "company": "Geyer",
+      "website": null,
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.6673,
+      "reason": "French beverage manufacturer that directly produces drinks including lemonades, energy drinks, beers, and malt-based beverages."
+    },
+    {
+      "company": "La Limonaderie de Paris",
+      "website": "lalimonaderiedeparis.com",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.6649,
+      "reason": "French beverage manufacturer specializing in artisanal sparkling beverage production with both standard and organic options."
+    },
+    {
+      "company": "Domaine Godeau",
+      "website": null,
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.6156,
+      "reason": "French beverage and food manufacturer specializing in wine production and beverage manufacturing."
+    },
+    {
+      "company": "Fermenting & Co",
+      "website": "fermentingandco.fr",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.6096,
+      "reason": "French beverage manufacturer producing fermented beverages including kombucha and plant-based infusions."
+    },
+    {
+      "company": "Auvergnat Cola",
+      "website": "auvergnatcola.com",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.5921,
+      "reason": "French beverage manufacturer producing soft drinks, cola, lemonade, and tonic with regional sourcing and bottling operations."
+    },
+    {
+      "company": "Dechelette Estate",
+      "website": null,
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.5663,
+      "reason": "French beverage manufacturer specializing in wine production, aging, bottling, and distribution."
+    },
+    {
+      "company": "La Péro",
+      "website": "la-pero.fr",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.5631,
+      "reason": "French food and beverage manufacturer producing alcoholic beverages including wine-based sparkling drinks."
+    },
+    {
+      "company": "MILHADE Vins & Spiritueux",
+      "website": null,
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.5524,
+      "reason": "French beverage manufacturer specializing in wine and spirit production with sustainable practices."
+    },
+    {
+      "company": "Kermené",
+      "website": "kermene.fr",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.5489,
+      "reason": "French meat processing and food manufacturing company that directly produces butcher, charcuterie, and fresh meat products for the food and beverage sector."
+    },
+    {
+      "company": "LA MULTILOCALE",
+      "website": "lamultilocale.org",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.5402,
+      "reason": "French food and beverage manufacturer specializing in local food production, processing, and distribution through manufacturing operations."
+    },
+    {
+      "company": "Elixia",
+      "website": "elixia.bio",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.5365,
+      "reason": "French soft drink manufacturer specializing in organic limonades production using sustainable practices."
+    },
+    {
+      "company": "L'Essinganaise",
+      "website": "lessinganaise.com",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.526,
+      "reason": "French food manufacturer specializing in prepared dishes, African cuisine, and beverage production."
+    },
+    {
+      "company": "Paniers d'Eve",
+      "website": null,
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.5232,
+      "reason": "French food manufacturer engaged in fruit and vegetable processing and canning operations."
+    },
+    {
+      "company": "Riviera Kombucha",
+      "website": "rivierakombucha.com",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.5191,
+      "reason": "French soft drink manufacturer specializing in artisanal kombucha beverage production."
+    },
+    {
+      "company": "Yumi",
+      "website": "yumi.fr",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.5045,
+      "reason": "French beverage manufacturer engaged in production of organic ginger shots and natural beverage products."
+    },
+    {
+      "company": "GreenLeaf Mate",
+      "website": "greenleaf-mate.com",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.4907,
+      "reason": "French soft drink manufacturer specializing in maté-based natural beverage production and distribution."
+    },
+    {
+      "company": "Club-Mate",
+      "website": "club-mate.fr",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.4878,
+      "reason": "French soft drink manufacturer specializing in yerba mate-infused sparkling beverage production."
+    },
+    {
+      "company": "Conserverie Fourmi",
+      "website": "conserverie-fourmi.fr",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.4398,
+      "reason": "Directly manufactures canned and preserved food products from fruits, vegetables, legumes, and mushrooms in France."
+    },
+    {
+      "company": "INOU",
+      "website": "inou.fr",
+      "match": true,
+      "llm_score": 4,
+      "emb_score": 0.5857,
+      "reason": "French food and beverage manufacturer engaged in fruit processing and production into various products."
+    },
+    {
+      "company": "Famille Pouille",
+      "website": "pouille.eu",
+      "match": true,
+      "llm_score": 3,
+      "emb_score": 0.5697,
+      "reason": "French food and beverage manufacturer with generic description but confirmed primary operations in food and beverage production."
+    },
+    {
+      "company": "Dior",
+      "website": "dior.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.4899,
+      "reason": "Luxury fashion and beauty company; does not manufacture food or beverage products."
+    },
+    {
+      "company": "Produit en Bretagne",
+      "website": "produitenbretagne.bzh",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.4414,
+      "reason": "Is a collective network and e-commerce platform that supports food and beverage companies, but does not manufacture food and beverage products itself."
+    },
+    {
+      "company": "Ecoviso",
+      "website": "ecoviso.fr",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3784,
+      "reason": "Environmental consulting company that does not manufacture food and beverage products."
+    },
+    {
+      "company": "Agir&Tude",
+      "website": "agiretude.fr",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3672,
+      "reason": "Engineering consulting firm that does not manufacture food and beverage products."
+    },
+    {
+      "company": "Mon BE Fluides",
+      "website": "monbefluides.fr",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3635,
+      "reason": "Engineering services company specializing in fluid systems design, not food and beverage manufacturing."
+    },
+    {
+      "company": "Collective Knowledge",
+      "website": "cknowledge.org",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3595,
+      "reason": "Software and AI company that does not manufacture food and beverage products."
+    },
+    {
+      "company": "Decathlon",
+      "website": "decathlon.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.355,
+      "reason": "Sporting goods retailer and manufacturer that does not produce food and beverage products."
+    },
+    {
+      "company": "INPACT",
+      "website": "inpact-paie.fr",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3408,
+      "reason": "Software publisher for payroll and HR systems that does not manufacture food and beverage products."
+    },
+    {
+      "company": "Atos",
+      "website": "atos.net",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3371,
+      "reason": "IT services and digital transformation company that does not manufacture food and beverage products."
+    },
+    {
+      "company": "European Pay",
+      "website": "european-pay.fr",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3319,
+      "reason": "Fintech company providing digital payment solutions that does not manufacture food and beverage products."
+    },
+    {
+      "company": "Virtualia",
+      "website": "virtualia.fr",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.2935,
+      "reason": "Software publisher for HR management, not a food and beverage manufacturer."
+    },
+    {
+      "company": "Asys",
+      "website": "asys.fr",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.2885,
+      "reason": "Software publisher for HR management, not a food and beverage manufacturer."
+    },
+    {
+      "company": "Sun RH",
+      "website": "sun-e.fr",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.275,
+      "reason": "Software publisher for HR management, not a food and beverage manufacturer."
+    },
+    {
+      "company": "Kammi",
+      "website": "kammi.fr",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.2732,
+      "reason": "Software publisher for HR management, not a food and beverage manufacturer."
+    },
+    {
+      "company": "Cantoriel",
+      "website": "cantoriel.fr",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.2681,
+      "reason": "Software publisher for HR management, not a food and beverage manufacturer."
+    },
+    {
+      "company": "NOVRH",
+      "website": "novrh.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.2501,
+      "reason": "Software publisher for HR management, not a food and beverage manufacturer."
+    },
+    {
+      "company": "quarksUp",
+      "website": "quarksup.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.2463,
+      "reason": "Software publisher for HR management, not a food and beverage manufacturer."
+    },
+    {
+      "company": "Staff & Go",
+      "website": "staffngo.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.2223,
+      "reason": "Software publisher for HR management, not a food and beverage manufacturer."
+    },
+    {
+      "company": "Kapsoon",
+      "website": "kapsoon.io",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.2217,
+      "reason": "Software publisher for HR management, not a food and beverage manufacturer."
+    },
+    {
+      "company": "Jooma",
+      "website": "jooma-paye.fr",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.2136,
+      "reason": "Software publisher for HR management, not a food and beverage manufacturer."
+    }
+  ],
+  "Companies that could supply packaging materials for a direct-to-consumer cosmetics brand": [
+    {
+      "company": "Lesopack Cos Packaging",
+      "website": "cospackaging.com.au",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.624,
+      "reason": "Australian manufacturer specializing directly in custom cosmetic packaging products (bottles, tubes, jars, boxes) for beauty brands, perfectly fitting a DTC cosmetics brand's packaging supply needs."
+    },
+    {
+      "company": "Standard Mold",
+      "website": "standardmold.co.kr",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.6006,
+      "reason": "South Korean manufacturer directly supplying cosmetic packaging and containers (jars, tubes, applicators) to the cosmetics industry on a B2B wholesale basis."
+    },
+    {
+      "company": "Sunshine Packaging",
+      "website": "hzshengsha.com",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.6004,
+      "reason": "Chinese manufacturer specializing in eco-friendly cosmetic packaging (bottles, jars, tubes) with global distribution and custom design services, directly serving cosmetics brands."
+    },
+    {
+      "company": "SHEACK Packaging",
+      "website": "sheackpkg.com",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.5967,
+      "reason": "Manufactures and distributes a full range of cosmetic and personal care packaging products (pumps, caps, bottles, jars) on a B2B basis for cosmetics brands globally."
+    },
+    {
+      "company": "Shenzhen Itop Cosmetic Packaging",
+      "website": "itoppacking.com",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.566,
+      "reason": "Chinese manufacturer focused entirely on cosmetic packaging (bottles, jars, tubes) with global B2B supply and customization services for the cosmetics industry."
+    },
+    {
+      "company": "Wenjing Packaging",
+      "website": "wenjingpack.com",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.5312,
+      "reason": "Chinese ISO-certified manufacturer producing a wide range of cosmetic packaging (jars, bottles, tubes) with custom development and assembly services for cosmetics and personal care brands."
+    },
+    {
+      "company": "Shanghai Bochen Cosmetic Packaging",
+      "website": "cncosmeticbottles.com",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.5261,
+      "reason": "Chinese ISO-certified manufacturer producing comprehensive cosmetic packaging solutions (bottles, pumps, tubes, compacts) for global personal care and cosmetics brands."
+    },
+    {
+      "company": "SZ SJ Packaging",
+      "website": "szsjpackaging.com",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.5233,
+      "reason": "Directly manufactures and supplies cosmetic packaging including lipstick tubes, eyeshadow palettes, and skincare bottles for beauty brands globally, a perfect fit for a DTC cosmetics brand."
+    },
+    {
+      "company": "YONWOO",
+      "website": "yonwookorea.com",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.5168,
+      "reason": "Specializes in manufacturing and supplying cosmetic packaging solutions including airless pumps, vacuum pumps, and bottles specifically for the cosmetics and personal care industries."
+    },
+    {
+      "company": "BAOLILONG GLASS PACKAGING",
+      "website": "baolilongglasspackaging.com",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.5031,
+      "reason": "Directly manufactures and supplies glass cosmetic packaging including jars and caps with custom finishing options, serving the cosmetics industry."
+    },
+    {
+      "company": "Crystal International",
+      "website": "crystalintl.com",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.4987,
+      "reason": "Specializes in customized plastic and glass packaging manufacturing specifically for color cosmetics, fragrance, and personal care industries with full turnkey services."
+    },
+    {
+      "company": "Ningbo Onson",
+      "website": "onsonpackaging.com",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.4851,
+      "reason": "Directly designs, molds, and manufactures cosmetic packaging products for the global cosmetics industry, including sustainable and recyclable options."
+    },
+    {
+      "company": "Silver Spur",
+      "website": "silverspurcorp.com",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.4459,
+      "reason": "Directly manufactures and distributes glass and plastic containers, closures, and caps specifically for the cosmetics and health and beauty industries, making it an ideal packaging supplier for a DTC cosmetics brand."
+    },
+    {
+      "company": "Aurelo Packaging Co",
+      "website": "aurelopackaging.com.au",
+      "match": true,
+      "llm_score": 4,
+      "emb_score": 0.5732,
+      "reason": "Australian company manufacturing and retailing eco-friendly glass packaging for skincare and beauty brands, directly supplying packaging materials suitable for a DTC cosmetics brand."
+    },
+    {
+      "company": "Yijie Packaging",
+      "website": "yijiepackaging.en.alibaba.com",
+      "match": true,
+      "llm_score": 4,
+      "emb_score": 0.5246,
+      "reason": "Chinese manufacturer and wholesale supplier of plastic, glass, and paper-based packaging products explicitly serving the cosmetics and personal care industries globally."
+    },
+    {
+      "company": "Minh Trang Packaging",
+      "website": "xuongchailominhtrang.com",
+      "match": true,
+      "llm_score": 4,
+      "emb_score": 0.4685,
+      "reason": "Manufactures and supplies cosmetic bottles, jars, caps, and related accessories specifically for the cosmetics industry, though primarily serves the Vietnamese domestic market."
+    },
+    {
+      "company": "Central de Envasados",
+      "website": "centralenvasados.com",
+      "match": true,
+      "llm_score": 4,
+      "emb_score": 0.3979,
+      "reason": "Central de Envasados is a co-packer and packaging solutions provider specializing in customized packaging formats for the cosmetics sector, making it a strong fit as a packaging supplier for a DTC cosmetics brand."
+    },
+    {
+      "company": "Flextribe",
+      "website": "flextribe.co",
+      "match": true,
+      "llm_score": 3,
+      "emb_score": 0.6036,
+      "reason": "Supplies eco-friendly protective and reusable packaging materials and explicitly lists cosmetics as a target market, but focus is on protective/transit packaging rather than primary cosmetic containers."
+    },
+    {
+      "company": null,
+      "website": "seycosmetics.co.uk",
+      "match": true,
+      "llm_score": 3,
+      "emb_score": 0.467,
+      "reason": "Manufactures and wholesales cosmetic packaging, but also produces cosmetics itself, making it a borderline match as packaging supply is only part of its business."
+    },
+    {
+      "company": "Vetipak",
+      "website": null,
+      "match": false,
+      "llm_score": 2,
+      "emb_score": 0.4737,
+      "reason": "Primarily a co-manufacturing and co-packing provider for FMCG sectors like food and confectionery; personal care is a minor segment and the company does not specialize in cosmetic packaging supply."
+    },
+    {
+      "company": "Avery",
+      "website": "avery.com",
+      "match": false,
+      "llm_score": 2,
+      "emb_score": 0.4118,
+      "reason": "Avery produces self-adhesive labels which could be used on cosmetics packaging, but its core business is office supplies and stationery rather than cosmetics packaging materials supply."
+    },
+    {
+      "company": "Bachem",
+      "website": "bachem.com",
+      "match": false,
+      "llm_score": 2,
+      "emb_score": 0.3605,
+      "reason": "Bachem manufactures peptides and cosmetic ingredients but does not supply packaging materials for cosmetics brands."
+    },
+    {
+      "company": "PolyPeptide",
+      "website": "polypeptide.com",
+      "match": false,
+      "llm_score": 2,
+      "emb_score": 0.3566,
+      "reason": "PolyPeptide manufactures cosmetic peptide ingredients but does not supply packaging materials for cosmetics brands."
+    },
+    {
+      "company": "Lonza Capsules & Health Ingredients",
+      "website": "capsugel.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.4732,
+      "reason": "Manufactures pharmaceutical and nutraceutical capsules and health ingredients, not cosmetic packaging materials for beauty brands."
+    },
+    {
+      "company": "Teoxane",
+      "website": "teoxane.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.4658,
+      "reason": "Manufactures hyaluronic acid-based dermal fillers and dermocosmetics for aesthetic medicine, not packaging materials for cosmetics brands."
+    },
+    {
+      "company": "PEZ Candy",
+      "website": "pez.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.4392,
+      "reason": "PEZ Candy is a confectionery manufacturer and retailer, not a supplier of packaging materials for cosmetics brands."
+    },
+    {
+      "company": "Coop Sleep Goods",
+      "website": "coopsleepgoods.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.4232,
+      "reason": "Coop Sleep Goods manufactures and retails sleep and bedding products and has no relevance to supplying packaging materials for cosmetics brands."
+    },
+    {
+      "company": "US Foods",
+      "website": "usfoods.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.412,
+      "reason": "US Foods is a food distribution company supplying foodservice operators and does not supply packaging materials for cosmetics brands."
+    },
+    {
+      "company": "Galderma",
+      "website": "galderma.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.4074,
+      "reason": "Galderma is a pharmaceutical and dermatological products manufacturer, not a supplier of packaging materials for cosmetics brands."
+    },
+    {
+      "company": "Fildas Trading",
+      "website": "fildas.ro",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.4051,
+      "reason": "Fildas Trading is a pharmaceutical and cosmetics distributor and retailer, not a supplier of packaging materials for cosmetics brands."
+    },
+    {
+      "company": "CordenPharma",
+      "website": "cordenpharma.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3945,
+      "reason": "CordenPharma is a pharmaceutical contract development and manufacturing organization focused on APIs and drug products, with no relevance to cosmetics packaging supply."
+    },
+    {
+      "company": "Geyer",
+      "website": null,
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3859,
+      "reason": "Geyer is a French beverage manufacturer and has no connection to supplying packaging materials for cosmetics brands."
+    },
+    {
+      "company": "GreenLeaf Mate",
+      "website": "greenleaf-mate.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3824,
+      "reason": "GreenLeaf Mate is a beverage manufacturer and distributor, not a supplier of packaging materials for cosmetics brands."
+    },
+    {
+      "company": "Valtec",
+      "website": "valtec.nl",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3738,
+      "reason": "Valtec distributes lubricants, hygiene supplies, and PPE, not packaging materials for cosmetics brands."
+    },
+    {
+      "company": "Dior",
+      "website": "dior.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.373,
+      "reason": "Dior is a luxury cosmetics and fashion brand, not a supplier of packaging materials to other companies."
+    },
+    {
+      "company": "Lonza",
+      "website": "lonza.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3674,
+      "reason": "Lonza is a pharmaceutical and biologics contract manufacturer, not a packaging materials supplier for cosmetics brands."
+    },
+    {
+      "company": "Auvergnat Cola",
+      "website": "auvergnatcola.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3662,
+      "reason": "Auvergnat Cola is a beverage manufacturer with its own packaging operations, not a packaging materials supplier for cosmetics brands."
+    },
+    {
+      "company": "Kermené",
+      "website": "kermene.fr",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3635,
+      "reason": "Kermené is a meat and charcuterie producer with internal packaging operations, not a packaging materials supplier for cosmetics brands."
+    },
+    {
+      "company": "Celonic",
+      "website": "celonic.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3633,
+      "reason": "Celonic is a biologics contract development and manufacturing organization, not a packaging materials supplier for cosmetics brands."
+    },
+    {
+      "company": "METRO România",
+      "website": "metro.ro",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3564,
+      "reason": "METRO România is a wholesale grocery and hospitality products distributor, not a packaging materials supplier for cosmetics brands."
+    },
+    {
+      "company": "BrandSafway",
+      "website": "brandsafway.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3502,
+      "reason": "Provides industrial scaffolding and construction services, not packaging materials for cosmetics or any consumer goods."
+    },
+    {
+      "company": "Elixia",
+      "website": "elixia.bio",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.35,
+      "reason": "A beverage manufacturer, not a supplier of packaging materials for cosmetics brands."
+    },
+    {
+      "company": "KD Pharma Group",
+      "website": "kdpharmagroup.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3473,
+      "reason": "A pharmaceutical and nutraceutical CDMO that does finished dosage form packaging for pharma, not a supplier of cosmetics packaging materials."
+    },
+    {
+      "company": "Brock Group",
+      "website": "brockgroup.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3457,
+      "reason": "Provides industrial specialty trade services such as scaffolding and insulation, not packaging materials for cosmetics."
+    },
+    {
+      "company": "Nespresso",
+      "website": "nespresso.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3452,
+      "reason": "A coffee machine and capsule manufacturer and retailer, not a supplier of packaging materials for cosmetics brands."
+    },
+    {
+      "company": "Riviera Kombucha",
+      "website": "rivierakombucha.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.343,
+      "reason": "An artisanal kombucha beverage producer, not a supplier of packaging materials for cosmetics brands."
+    },
+    {
+      "company": "RAW Rolling Papers",
+      "website": "rawthentic.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3421,
+      "reason": "Manufactures plant-based rolling papers and smoking accessories, not packaging materials for cosmetics brands."
+    },
+    {
+      "company": "Fermenting & Co",
+      "website": "fermentingandco.fr",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3418,
+      "reason": "A fermented beverage manufacturer, not a supplier of packaging materials for cosmetics brands."
+    },
+    {
+      "company": "Siegfried",
+      "website": "siegfried.ch",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3408,
+      "reason": "A pharmaceutical CDMO offering packaging for drug products, not a supplier of cosmetics packaging materials for consumer brands."
+    },
+    {
+      "company": "Lululemon",
+      "website": "lululemon.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3385,
+      "reason": "A retail apparel and footwear brand that sells some personal care products, but does not supply packaging materials to other companies."
+    },
+    {
+      "company": "TRB Chemedica",
+      "website": "trbchemedica.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3377,
+      "reason": "A pharmaceutical and medical device manufacturer focused on hyaluronic acid products; does not supply packaging materials."
+    },
+    {
+      "company": "DaVinci Gourmet",
+      "website": "davincigourmet.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.336,
+      "reason": "A beverage manufacturer producing syrups and drinks; does not supply packaging materials for cosmetics brands."
+    },
+    {
+      "company": "H&M Home",
+      "website": "hm.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3358,
+      "reason": "A retail company selling clothing, home goods, and beauty products; does not supply packaging materials."
+    },
+    {
+      "company": "La Limonaderie de Paris",
+      "website": "lalimonaderiedeparis.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3358,
+      "reason": "An artisanal sparkling beverage manufacturer; does not supply packaging materials for cosmetics brands."
+    },
+    {
+      "company": "Novartis",
+      "website": "novartis.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.335,
+      "reason": "A multinational pharmaceutical company focused on drug development and manufacturing; does not supply packaging materials for cosmetics brands."
+    },
+    {
+      "company": "IBSA",
+      "website": "ibsagroup.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3317,
+      "reason": "A pharmaceutical company producing therapeutic products and medicines; does not supply packaging materials for cosmetics brands."
+    },
+    {
+      "company": "Helsinn",
+      "website": "helsinn.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3308,
+      "reason": "A pharmaceutical company focused on oncology and supportive care products; does not supply packaging materials for cosmetics brands."
+    },
+    {
+      "company": "Ferring",
+      "website": "ferring.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3297,
+      "reason": "A biopharmaceutical company focused on reproductive medicine and related therapeutics; does not supply packaging materials for cosmetics brands."
+    },
+    {
+      "company": "Coles",
+      "website": "coles.com.au",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3285,
+      "reason": "A grocery retail chain selling consumer products; does not supply packaging materials for cosmetics brands."
+    },
+    {
+      "company": "Capgemini",
+      "website": "capgemini.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3277,
+      "reason": "An IT and management consulting company; does not supply packaging materials for cosmetics brands."
+    }
+  ],
+  "Construction companies in the United States with revenue over $50 million": [
+    {
+      "company": "DPR Construction",
+      "website": "dpr.com",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.4672,
+      "reason": "General contractor and construction management company in US with $9.5B revenue, well above $50M threshold, performs construction work directly."
+    },
+    {
+      "company": "Lemartec",
+      "website": "lemartec.com",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.3868,
+      "reason": "General contractor and construction management company in US with $15.8B revenue, exceeds $50M requirement, performs construction work directly."
+    },
+    {
+      "company": "Focus Civil Construction Group",
+      "website": "focuscivil.com",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.3854,
+      "reason": "General contracting and construction management company in US with $10.7B revenue, exceeds $50M threshold, performs construction work directly."
+    },
+    {
+      "company": "BNBuilders",
+      "website": "bnbuilders.com",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.3612,
+      "reason": "Construction company in US with $11.8B revenue, exceeds $50M requirement, performs construction work directly across multiple sectors."
+    },
+    {
+      "company": "Bechtel",
+      "website": "bechtel.com",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.3366,
+      "reason": "Engineering and construction company in US with $10.8B revenue, exceeds $50M threshold, performs construction work directly."
+    },
+    {
+      "company": "Halmar International",
+      "website": "halmarinternational.com",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.2972,
+      "reason": "Heavy civil infrastructure construction company in US with $10.8B revenue, exceeds $50M requirement, performs construction work directly."
+    },
+    {
+      "company": "Skanska",
+      "website": "skanska.com",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.2964,
+      "reason": "Construction and development company operating in US with $11.3B revenue, exceeds $50M threshold, performs construction work directly."
+    },
+    {
+      "company": "Kiewit",
+      "website": "kiewit.com",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.2946,
+      "reason": "Construction and engineering company in US with $16.3B revenue, exceeds $50M requirement, performs construction work directly."
+    },
+    {
+      "company": "Fluor",
+      "website": "fluor.com",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.281,
+      "reason": "Engineering, procurement, and construction company headquartered in US with $18.3B revenue, well exceeds $50M threshold and directly performs construction work."
+    },
+    {
+      "company": "Clayton Homes",
+      "website": "claytonhomes.com",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.265,
+      "reason": "Construction company headquartered in US that designs and constructs single-family homes with $14.9B revenue, exceeds $50M threshold."
+    },
+    {
+      "company": "Quanta Services",
+      "website": "quantaservices.com",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.2497,
+      "reason": "Infrastructure contracting and construction company headquartered in US with $13.5B revenue, directly performs construction services and well exceeds $50M threshold."
+    },
+    {
+      "company": "EMCOR Group",
+      "website": "emcorgroup.com",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.2419,
+      "reason": "Mechanical and electrical construction company headquartered in US with $11.7B revenue, performs construction work and exceeds $50M threshold."
+    },
+    {
+      "company": "Tutor Perini",
+      "website": "tutorperini.com",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.2175,
+      "reason": "Civil and commercial building construction company headquartered in US with $10.7B revenue, directly performs construction work and exceeds $50M threshold."
+    },
+    {
+      "company": "Brock Group",
+      "website": "brockgroup.com",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.2135,
+      "reason": "Specialty trade contractor providing construction and construction-related services (scaffolding, painting, insulation, etc.) with $13.5B revenue in the United States."
+    },
+    {
+      "company": "BrandSafway",
+      "website": "brandsafway.com",
+      "match": true,
+      "llm_score": 4,
+      "emb_score": 0.2365,
+      "reason": "Specialty trade contractor providing scaffolding, forming, and construction support services headquartered in US with $19.7B revenue, exceeds $50M threshold but primarily supplies rather than performs full construction."
+    },
+    {
+      "company": "Versar",
+      "website": "jmwaller.com",
+      "match": true,
+      "llm_score": 4,
+      "emb_score": 0.212,
+      "reason": "Heavy and civil engineering construction company providing construction project management and engineering services with $10.8B revenue in the United States."
+    },
+    {
+      "company": "Versar",
+      "website": "geo-marine.com",
+      "match": true,
+      "llm_score": 4,
+      "emb_score": 0.2049,
+      "reason": "Heavy and civil engineering construction company providing engineering and construction services with $10.3B revenue in the United States."
+    },
+    {
+      "company": "PulteGroup",
+      "website": "pultegroup.com",
+      "match": false,
+      "llm_score": 2,
+      "emb_score": 0.2846,
+      "reason": "Homebuilder that develops and sells residential properties, not a general construction contractor serving diverse markets."
+    },
+    {
+      "company": "The Home Depot",
+      "website": "homedepot.com",
+      "match": false,
+      "llm_score": 2,
+      "emb_score": 0.2189,
+      "reason": "Home improvement retail company that supplies materials and offers some installation services, but does not primarily perform construction work as its core business."
+    },
+    {
+      "company": "Trusted Solutions Group",
+      "website": "tsg28.com",
+      "match": false,
+      "llm_score": 2,
+      "emb_score": 0.2167,
+      "reason": "Construction labor staffing and materials management company, but revenue of $9.9B appears inflated for a 2-person company and does not meet the $50M+ threshold if accurate."
+    },
+    {
+      "company": "Colaska",
+      "website": "colaska.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.2827,
+      "reason": "Transportation infrastructure construction company in Alaska with only $38.8M revenue, below $50M threshold."
+    },
+    {
+      "company": "Solid Power",
+      "website": "solidpowerbattery.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.2567,
+      "reason": "Battery manufacturing company, not a construction company; does not perform construction work."
+    },
+    {
+      "company": "Avery",
+      "website": "avery.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.2331,
+      "reason": "Stationery and label manufacturing company, not a construction company; does not perform construction work."
+    },
+    {
+      "company": "QuantumScape",
+      "website": "quantumscape.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.2295,
+      "reason": "Battery manufacturing company, not a construction company; does not perform construction work."
+    },
+    {
+      "company": "Leidos",
+      "website": "leidos.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.2174,
+      "reason": "Systems integrator and IT services provider, not a construction company that performs construction work."
+    },
+    {
+      "company": "Harbor Freight",
+      "website": "harborfreight.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.2161,
+      "reason": "Retail distributor of tools and equipment, not a construction company that performs construction services."
+    },
+    {
+      "company": "Genpact",
+      "website": "genpact.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.207,
+      "reason": "IT services and business process outsourcing company, not a construction company."
+    },
+    {
+      "company": "Silver Spur",
+      "website": "silverspurcorp.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.1995,
+      "reason": "Packaging manufacturer and supplier, not a construction company."
+    },
+    {
+      "company": "EPAM",
+      "website": "epam.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.1994,
+      "reason": "Software engineering and digital services company, not a construction company."
+    },
+    {
+      "company": "Lululemon",
+      "website": "lululemon.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.1932,
+      "reason": "Apparel and athletic wear retailer, not a construction company."
+    },
+    {
+      "company": "Toys\"R\"Us",
+      "website": "toysrus.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.1908,
+      "reason": "Toy retailer, not a construction company."
+    },
+    {
+      "company": "Coop Sleep Goods",
+      "website": "coopsleepgoods.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.1891,
+      "reason": "Mattress and bedding manufacturer, not a construction company."
+    },
+    {
+      "company": null,
+      "website": "seycosmetics.co.uk",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.1883,
+      "reason": "Cosmetics and packaging manufacturer, not a construction company."
+    },
+    {
+      "company": "US Foods",
+      "website": "usfoods.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.1828,
+      "reason": "Food distribution company, not a construction company."
+    },
+    {
+      "company": "CACI",
+      "website": "caci.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.1824,
+      "reason": "IT and consulting services company, not a construction company."
+    },
+    {
+      "company": "Booz Allen",
+      "website": "boozallen.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.1805,
+      "reason": "Management and technology consulting company, not a construction company."
+    },
+    {
+      "company": "DrinkAriZona",
+      "website": "drinkarizona.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.1666,
+      "reason": "Beverage manufacturer, not a construction company."
+    },
+    {
+      "company": "nothing,nowhere",
+      "website": "nothingnowhere.net",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.1644,
+      "reason": "Music production and distribution company, not a construction company."
+    },
+    {
+      "company": "Gillette",
+      "website": "gillette.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.1538,
+      "reason": "Men's grooming products manufacturer, not a construction company."
+    },
+    {
+      "company": "Forever 21",
+      "website": "forever21.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.1521,
+      "reason": "Fashion retail company, not a construction company."
+    },
+    {
+      "company": "SAIC",
+      "website": "saic.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.1501,
+      "reason": "Primary business is technology and IT services for defense/government, not construction."
+    },
+    {
+      "company": "ASGN",
+      "website": "asgn.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.1482,
+      "reason": "IT consulting and staffing services company, not a construction company."
+    },
+    {
+      "company": "Hisun",
+      "website": "thehisun.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.1406,
+      "reason": "Battery materials manufacturing company, not construction."
+    },
+    {
+      "company": "Mphasis",
+      "website": "mphasis.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.1337,
+      "reason": "IT services and consulting company, not a construction company."
+    },
+    {
+      "company": "Goya Foods",
+      "website": "goya.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.1303,
+      "reason": "Food manufacturing and distribution company, not construction."
+    },
+    {
+      "company": "Concentrix",
+      "website": "concentrix.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.1279,
+      "reason": "Technology and business process outsourcing company, not a construction company."
+    },
+    {
+      "company": "TensorFlow JVM Special Interest Group",
+      "website": null,
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.1255,
+      "reason": "Software framework development for machine learning, not construction."
+    },
+    {
+      "company": "Hy-Vee",
+      "website": "hy-vee.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.1202,
+      "reason": "Supermarket and grocery retail chain, not a construction company."
+    },
+    {
+      "company": "HighsideAI",
+      "website": "highside.ai",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.1185,
+      "reason": "AI and machine learning services provider, not a construction company."
+    },
+    {
+      "company": "Ripley Decision Advantage",
+      "website": "ripleydecisionadvantage.net",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.1147,
+      "reason": "AI/ML consulting firm, not a construction company."
+    },
+    {
+      "company": "PEZ Candy",
+      "website": "pez.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.1121,
+      "reason": "PEZ Candy manufactures confectionery products, not construction services or projects."
+    },
+    {
+      "company": "Walmart",
+      "website": "walmart.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.1025,
+      "reason": "Walmart is a retail corporation, not a construction company that performs construction work."
+    },
+    {
+      "company": "RAW Rolling Papers",
+      "website": "rawthentic.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.0868,
+      "reason": "RAW Rolling Papers manufactures smoking accessories and rolling papers, not construction services."
+    },
+    {
+      "company": "ZoKorp",
+      "website": "zokorp.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.082,
+      "reason": "ZoKorp provides AI/ML and cloud computing consulting services, not construction services."
+    },
+    {
+      "company": "Flextribe",
+      "website": "flextribe.co",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.0728,
+      "reason": "Flextribe manufactures eco-friendly packaging materials, not construction services or projects."
+    }
+  ],
+  "Pharmaceutical companies in Switzerland": [
+    {
+      "company": "Sumitomo Pharma Switzerland",
+      "website": "sumitomo-pharma.com",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.6751,
+      "reason": "Swiss pharmaceutical company that manufactures and distributes pharmaceutical products with R&D activities in multiple therapeutic areas."
+    },
+    {
+      "company": "ADC Therapeutics",
+      "website": "adctherapeutics.com",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.5942,
+      "reason": "Swiss biotechnology company engaged in research, development, manufacturing, and commercialization of pharmaceutical products (antibody drug conjugates)."
+    },
+    {
+      "company": "TRB Chemedica",
+      "website": "trbchemedica.com",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.5809,
+      "reason": "Swiss pharmaceutical company engaged in development, manufacturing, and distribution of pharmaceutical products and medical devices."
+    },
+    {
+      "company": "A. Menarini",
+      "website": "menarini.ch",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.5771,
+      "reason": "Swiss pharmaceutical company engaged in development, manufacturing, and distribution of medicinal products across multiple therapeutic areas."
+    },
+    {
+      "company": "Helsinn",
+      "website": "helsinn.com",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.571,
+      "reason": "Swiss pharmaceutical company engaged in research, development, manufacturing, and commercialization of pharmaceuticals."
+    },
+    {
+      "company": "Tillotts Pharma",
+      "website": "tillotts.com",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.5705,
+      "reason": "Swiss pharmaceutical company engaged in development, manufacturing, and marketing of pharmaceutical products."
+    },
+    {
+      "company": "Idorsia",
+      "website": "idorsia.com",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.5523,
+      "reason": "Swiss biopharmaceutical company engaged in discovery, development, and commercialization of pharmaceutical products."
+    },
+    {
+      "company": "Novartis",
+      "website": "novartis.com",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.5266,
+      "reason": "Swiss multinational pharmaceutical corporation that develops, manufactures, and distributes pharmaceuticals, vaccines, and generic drugs globally."
+    },
+    {
+      "company": "Ferring",
+      "website": "ferring.com",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.5261,
+      "reason": "Swiss biopharmaceutical company engaged in research, development, and manufacturing of pharmaceutical products across multiple therapeutic areas."
+    },
+    {
+      "company": "Acino",
+      "website": "acino.swiss",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.5248,
+      "reason": "Swiss pharmaceutical company that develops, manufactures, and markets pharmaceuticals including prescription medicines and over-the-counter products."
+    },
+    {
+      "company": "OM Pharma",
+      "website": "ompharma.com",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.5086,
+      "reason": "Swiss biopharmaceutical company engaged in development and manufacturing of bacterial lysates and immunomodulators for therapeutic use."
+    },
+    {
+      "company": "MSD",
+      "website": "msd.ch",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.5055,
+      "reason": "Swiss biopharmaceutical company engaged in research, development, manufacturing, and commercialization of medicines and vaccines."
+    },
+    {
+      "company": "Debiopharm",
+      "website": "debiopharm.com",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.5042,
+      "reason": "Swiss biopharmaceutical company engaged in drug development, manufacturing, and commercialization of prescription drugs for oncology and infections."
+    },
+    {
+      "company": "Galderma",
+      "website": "galderma.com",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.4897,
+      "reason": "Swiss pharmaceutical company that develops, manufactures, and distributes pharmaceutical dermatological products."
+    },
+    {
+      "company": "CRISPR Therapeutics",
+      "website": "crisprtx.com",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.4845,
+      "reason": "Swiss-American biotechnology company developing and manufacturing gene-based pharmaceutical medicines and therapies."
+    },
+    {
+      "company": "IBSA",
+      "website": "ibsagroup.com",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.4798,
+      "reason": "Swiss pharmaceutical company engaged in production and manufacturing of therapeutic pharmaceutical products."
+    },
+    {
+      "company": "Octapharma",
+      "website": "octapharma.com",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.4781,
+      "reason": "Swiss pharmaceutical company developing, manufacturing, and distributing human protein-based pharmaceutical therapies."
+    },
+    {
+      "company": "Celonic",
+      "website": "celonic.com",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.4491,
+      "reason": "Swiss biotechnology company developing and manufacturing biologics as complex pharmaceutical molecules."
+    },
+    {
+      "company": "Alcon",
+      "website": "aeriepharma.com",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.4481,
+      "reason": "Swiss-based global pharmaceutical company developing, manufacturing, and distributing ophthalmic pharmaceutical products."
+    },
+    {
+      "company": "Nestlé Health Science",
+      "website": "nestlehealthscience.com",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.3588,
+      "reason": "Swiss pharmaceutical and medicinal product manufacturer developing and manufacturing pharmaceutical solutions and medical nutrition products."
+    },
+    {
+      "company": "Stallergenes Greer",
+      "website": "stallergenesgreer.com",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.3523,
+      "reason": "Swiss biopharmaceutical company engaged in pharmaceutical preparation manufacturing of allergen immunotherapy products."
+    },
+    {
+      "company": "Drugs for Neglected Diseases initiative",
+      "website": "dndi.org",
+      "match": true,
+      "llm_score": 4,
+      "emb_score": 0.4889,
+      "reason": "Swiss organization conducting drug discovery and development for pharmaceutical treatments, though nonprofit rather than commercial manufacturer."
+    },
+    {
+      "company": "Bachem",
+      "website": "bachem.com",
+      "match": true,
+      "llm_score": 4,
+      "emb_score": 0.4775,
+      "reason": "Swiss pharmaceutical company manufacturing peptides and oligonucleotides for pharmaceutical applications, though also serves other industries."
+    },
+    {
+      "company": "AbelaPharm",
+      "website": "abelapharm.ch",
+      "match": true,
+      "llm_score": 4,
+      "emb_score": 0.4759,
+      "reason": "Swiss pharmaceutical company developing and manufacturing pharmaceutical products and dietary supplements."
+    },
+    {
+      "company": "PolyPeptide",
+      "website": "polypeptide.com",
+      "match": true,
+      "llm_score": 4,
+      "emb_score": 0.4487,
+      "reason": "Swiss CDMO company developing and manufacturing peptide-based active pharmaceutical ingredients for pharmaceutical companies."
+    },
+    {
+      "company": "AliveDx",
+      "website": "alivedx.com",
+      "match": true,
+      "llm_score": 4,
+      "emb_score": 0.42,
+      "reason": "Swiss company that manufactures pharmaceutical diagnostic products and in-vitro solutions, though primarily diagnostics rather than traditional pharmaceuticals."
+    },
+    {
+      "company": "KD Pharma Group",
+      "website": "kdpharmagroup.com",
+      "match": false,
+      "llm_score": 2,
+      "emb_score": 0.5571,
+      "reason": "Contract development and manufacturing organization that serves the pharmaceutical industry but primarily manufactures for others, not a pharmaceutical company that does pharmaceutical manufacturing as its core business."
+    },
+    {
+      "company": "Lonza",
+      "website": "lonza.com",
+      "match": false,
+      "llm_score": 2,
+      "emb_score": 0.5569,
+      "reason": "Contract development and manufacturing organization that provides manufacturing services to pharmaceutical companies but is not a pharmaceutical company itself."
+    },
+    {
+      "company": "CordenPharma",
+      "website": "cordenpharma.com",
+      "match": false,
+      "llm_score": 2,
+      "emb_score": 0.5408,
+      "reason": "Contract development and manufacturing organization that provides manufacturing services to pharmaceutical companies but is not a pharmaceutical company itself."
+    },
+    {
+      "company": "Teoxane",
+      "website": "teoxane.com",
+      "match": false,
+      "llm_score": 2,
+      "emb_score": 0.5226,
+      "reason": "Primarily manufactures dermal fillers and dermocosmetics for aesthetic medicine, not pharmaceutical drugs for therapeutic treatment."
+    },
+    {
+      "company": "Siegfried",
+      "website": "siegfried.ch",
+      "match": false,
+      "llm_score": 2,
+      "emb_score": 0.505,
+      "reason": "Contract manufacturing organization that produces active pharmaceutical ingredients and intermediates, but does not develop or market finished pharmaceutical drugs."
+    },
+    {
+      "company": "CARBOGEN AMCIS",
+      "website": "carbogen-amcis.com",
+      "match": false,
+      "llm_score": 2,
+      "emb_score": 0.492,
+      "reason": "Contract development and manufacturing organization that provides manufacturing services for pharmaceutical clients, but does not develop or commercialize its own pharmaceutical products."
+    },
+    {
+      "company": "PSI CRO",
+      "website": "psi-cro.com",
+      "match": false,
+      "llm_score": 2,
+      "emb_score": 0.3932,
+      "reason": "Swiss contract research organization that serves pharmaceutical companies but does not manufacture or develop pharmaceutical products itself."
+    },
+    {
+      "company": "Lonza Capsules & Health Ingredients",
+      "website": "capsugel.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.5139,
+      "reason": "Supplies encapsulation technology and capsule manufacturing equipment to pharmaceutical companies, but does not manufacture pharmaceuticals itself."
+    },
+    {
+      "company": "HR Campus",
+      "website": "hr-campus.ch",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3736,
+      "reason": "HR consulting and software company with no involvement in pharmaceutical manufacturing or development."
+    },
+    {
+      "company": "Foederis",
+      "website": "foederis.ch",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3353,
+      "reason": "HR software publisher with no involvement in pharmaceutical manufacturing or development."
+    },
+    {
+      "company": "Novative",
+      "website": "novative.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3265,
+      "reason": "HR and payroll software company with no involvement in pharmaceutical manufacturing or development."
+    },
+    {
+      "company": "visusta",
+      "website": "visusta.ch",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3066,
+      "reason": "Environmental consulting company with no involvement in pharmaceutical manufacturing or development."
+    },
+    {
+      "company": "Greenbatt Technology",
+      "website": "greenbatt.ch",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.305,
+      "reason": "Battery manufacturing company with no involvement in pharmaceutical manufacturing or development."
+    },
+    {
+      "company": "MA-Engineering",
+      "website": "ma-engineering.ch",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.2687,
+      "reason": "Engineering services company specializing in construction with no involvement in pharmaceutical manufacturing or development."
+    },
+    {
+      "company": "Terzic Urban Engineering",
+      "website": "terziceng.ch",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.2638,
+      "reason": "Company provides urban engineering and infrastructure services, not pharmaceutical manufacturing or research."
+    },
+    {
+      "company": "Solarschmiede",
+      "website": "solarschmiede.ch",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.2371,
+      "reason": "Company specializes in photovoltaic system planning and solar energy consulting, not pharmaceutical operations."
+    },
+    {
+      "company": "Deepstributed",
+      "website": "deepstributed.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.1861,
+      "reason": "Company provides machine learning software platforms, not pharmaceutical products or services."
+    }
+  ],
+  "B2B SaaS companies providing HR solutions in Europe": [
+    {
+      "company": "HR Campus",
+      "website": "hr-campus.ch",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.5562,
+      "reason": "Swiss B2B SaaS HR solutions provider with comprehensive HR software and services perfectly matching the query requirements."
+    },
+    {
+      "company": "BCS HR Software",
+      "website": "bcs.nl",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.5459,
+      "reason": "Dutch B2B SaaS HR software provider developing and delivering modular HR management solutions across Europe."
+    },
+    {
+      "company": "Team2go",
+      "website": "team2go.es",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.507,
+      "reason": "Spanish B2B SaaS HR software company providing comprehensive HR management solutions in Europe."
+    },
+    {
+      "company": "Novative",
+      "website": "novative.com",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.4831,
+      "reason": "Swiss B2B SaaS HR and payroll software provider with comprehensive HR management solutions serving European markets."
+    },
+    {
+      "company": "Personio",
+      "website": null,
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.473,
+      "reason": "German B2B SaaS HR software company providing complete employee management and HR solutions in Europe."
+    },
+    {
+      "company": "Toba HR Solutions",
+      "website": "tobahrsolutions.be",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.4557,
+      "reason": "Belgian B2B SaaS HR software company providing workforce management and HR solutions across Europe."
+    },
+    {
+      "company": "ICON HR",
+      "website": "iconhrsoftware.azurewebsites.net",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.4554,
+      "reason": "B2B SaaS HR software provider located in England, Europe, matching all query criteria perfectly."
+    },
+    {
+      "company": "Sun RH",
+      "website": "sun-e.fr",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.4538,
+      "reason": "B2B SaaS HR management software provider located in France, Europe, offering comprehensive HR solutions."
+    },
+    {
+      "company": "Foederis",
+      "website": "foederis.ch",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.4502,
+      "reason": "B2B SaaS HR software provider located in Switzerland, Europe, specializing in talent management and HRIS."
+    },
+    {
+      "company": "Lucca",
+      "website": "lucca-software.es",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.441,
+      "reason": "B2B SaaS modular HR software provider located in Spain, Europe, serving businesses worldwide."
+    },
+    {
+      "company": "Bizneo HR",
+      "website": "bizneo.com",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.4373,
+      "reason": "B2B SaaS HR software provider located in Spain, Europe, offering comprehensive HR management solutions."
+    },
+    {
+      "company": "Asys",
+      "website": "asys.fr",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.4348,
+      "reason": "B2B SaaS HR management software provider located in France, Europe, specializing in HR solutions across sectors."
+    },
+    {
+      "company": "Sesame HR",
+      "website": "sesamehr.com",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.4318,
+      "reason": "B2B SaaS HR software provider located in Spain, Europe, offering comprehensive HR management tools."
+    },
+    {
+      "company": "UK HR Cloud",
+      "website": "ukhrcloud.com",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.4312,
+      "reason": "B2B SaaS HRMS provider located in England, Europe, offering HR management and compliance solutions."
+    },
+    {
+      "company": "Buzz HR",
+      "website": "buzzhr.co.uk",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.4274,
+      "reason": "B2B SaaS HR software provider located in Manchester, England; offers comprehensive HR management tools and solutions."
+    },
+    {
+      "company": "HRappka",
+      "website": "kalendarzkadrowego.pl",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.4182,
+      "reason": "B2B SaaS HR software provider located in Poland, Europe; offers cloud-based HR management system with recruitment, onboarding, and payroll modules."
+    },
+    {
+      "company": "Sesame HR",
+      "website": "sesamehr.pt",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.4181,
+      "reason": "B2B SaaS HR software provider located in Valencia, Spain, Europe; offers comprehensive HR management tools including recruitment, onboarding, and performance evaluation."
+    },
+    {
+      "company": "Sesame HR",
+      "website": "sesamehr.com.br",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.409,
+      "reason": "B2B SaaS HR software provider located in Valencia, Spain, Europe; offers comprehensive HR solutions including time control, recruitment, onboarding, and AI-powered features."
+    },
+    {
+      "company": "Ciphr",
+      "website": "ciphr.com",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.407,
+      "reason": "B2B SaaS HR software and payroll solutions provider located in Reading, England, Europe; offers cloud-based HR platform with recruitment, benefits, and learning management."
+    },
+    {
+      "company": "Sincron HR",
+      "website": "sincronhr.com",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.4031,
+      "reason": "B2B SaaS HR software provider located in Bucharest, Romania, Europe; offers comprehensive HR management platform covering recruitment, payroll, and performance management."
+    },
+    {
+      "company": "Paychex",
+      "website": "paychex.de",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.3918,
+      "reason": "B2B SaaS HR solutions company in Germany offering comprehensive payroll and HR management software."
+    },
+    {
+      "company": "uMan Xpert",
+      "website": "uman.pt",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.3911,
+      "reason": "B2B SaaS HR solutions company in Portugal providing fully automated HRM platform with recruitment, payroll, and performance management."
+    },
+    {
+      "company": "Sesame HR",
+      "website": "sesamehr.es",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.385,
+      "reason": "B2B SaaS HR solutions company in Spain providing comprehensive human resources software with global presence."
+    },
+    {
+      "company": "Staff & Go",
+      "website": "staffngo.com",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.3751,
+      "reason": "B2B SaaS HR platform providing payroll, recruitment, leave management, and time tracking in Europe."
+    },
+    {
+      "company": "Visma YouServe",
+      "website": "youserve.nl",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.3715,
+      "reason": "B2B SaaS provider of HR and payroll software solutions with HR robotics and AI in Netherlands, Europe."
+    },
+    {
+      "company": "NOVRH",
+      "website": "novrh.com",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.3679,
+      "reason": "B2B SaaS provider of SIRH and payroll management platform with HR modules in France, Europe."
+    },
+    {
+      "company": "Global HR",
+      "website": "globalhruk.com",
+      "match": true,
+      "llm_score": 4,
+      "emb_score": 0.4933,
+      "reason": "British B2B SaaS HR software provider offering HRM solutions; minor uncertainty due to post-Brexit UK status relative to 'Europe' specification."
+    },
+    {
+      "company": "HRWare Consulting",
+      "website": "hrware.de",
+      "match": true,
+      "llm_score": 4,
+      "emb_score": 0.4661,
+      "reason": "German B2B SaaS HR software provider offering solutions and consulting services, though consulting services are secondary to software."
+    },
+    {
+      "company": "Platfohrm",
+      "website": "platfohrm.com",
+      "match": true,
+      "llm_score": 4,
+      "emb_score": 0.4476,
+      "reason": "B2B SaaS HR software provider located in Belgium, Europe, though primarily serves SMEs and has very small team size."
+    },
+    {
+      "company": "Jooma",
+      "website": "jooma-paye.fr",
+      "match": true,
+      "llm_score": 4,
+      "emb_score": 0.4429,
+      "reason": "B2B SaaS HR and payroll management provider located in France, Europe, though focused on smaller organizations."
+    },
+    {
+      "company": "Factorial",
+      "website": "factorialhr.de",
+      "match": true,
+      "llm_score": 4,
+      "emb_score": 0.3992,
+      "reason": "B2B SaaS HR software provider located in Barcelona, Spain, Europe; offers integrated HR platform with time management, payroll, and onboarding, though reported revenue is unusually low for stated scope."
+    },
+    {
+      "company": "Pandapé",
+      "website": "pandape.com",
+      "match": true,
+      "llm_score": 4,
+      "emb_score": 0.3966,
+      "reason": "B2B SaaS HR software provider located in Edinburgh, Scotland, Europe; offers HR solutions including recruitment, onboarding, and payroll, though primary markets include Latin America."
+    },
+    {
+      "company": "Safebridge",
+      "website": "safebridge.es",
+      "match": true,
+      "llm_score": 4,
+      "emb_score": 0.3927,
+      "reason": "B2B SaaS HR solutions provider in Spain specializing in payroll, talent management, and cloud-based HR software."
+    },
+    {
+      "company": "Kammi",
+      "website": "kammi.fr",
+      "match": true,
+      "llm_score": 4,
+      "emb_score": 0.3857,
+      "reason": "B2B SaaS HR solutions company in France offering HR management software and consulting services."
+    },
+    {
+      "company": "Kapsoon",
+      "website": "kapsoon.io",
+      "match": false,
+      "llm_score": 2,
+      "emb_score": 0.458,
+      "reason": "French company provides HR SaaS but is narrowly specialized for insurance agents/brokers rather than general B2B HR solutions."
+    },
+    {
+      "company": "BambooHR",
+      "website": "bamboohr.eu",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.5096,
+      "reason": "Located in Dublin, Ireland, which is not part of continental Europe and does not match the European geographic specification."
+    },
+    {
+      "company": "Salauddin Global Trading",
+      "website": "salauddinglobal.co.uk",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.4288,
+      "reason": "Company provides money transfer services, not HR solutions; primary industry is financial transactions processing, not HR software."
+    },
+    {
+      "company": "ARMAI",
+      "website": "armai.org",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.4095,
+      "reason": "Company provides machine learning systems design services, not HR solutions; primary focus is ML projects for various industries."
+    },
+    {
+      "company": "Rantum Capital",
+      "website": "rantumcapital.de",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3965,
+      "reason": "Provides financial services and lending, not HR solutions."
+    },
+    {
+      "company": "Phin",
+      "website": "phintech.de",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3963,
+      "reason": "Provides mobile banking and financial account management, not HR solutions."
+    },
+    {
+      "company": "European Drinks",
+      "website": "europeandrinks.ro",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3878,
+      "reason": "Beverage manufacturing and distribution company, not HR solutions provider."
+    },
+    {
+      "company": "BTN de Haas",
+      "website": "btndehaas.nl",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3874,
+      "reason": "Agricultural supplies wholesaler and retailer, not HR solutions provider."
+    },
+    {
+      "company": "TerraGreen",
+      "website": "terragreen-solutions.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3859,
+      "reason": "Environmental consulting services company, not HR solutions provider."
+    },
+    {
+      "company": "Nestlé Health Science",
+      "website": "nestlehealthscience.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.383,
+      "reason": "Manufactures nutritional and pharmaceutical products, not HR software solutions."
+    },
+    {
+      "company": "Helsinn",
+      "website": "helsinn.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3817,
+      "reason": "Manufactures pharmaceuticals and medical devices, not HR software solutions."
+    },
+    {
+      "company": "MSD",
+      "website": "msd.ch",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3805,
+      "reason": "Manufactures medicines and vaccines, not HR software solutions."
+    },
+    {
+      "company": "ProximaScale",
+      "website": "proximascale.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3769,
+      "reason": "Provides AI and ML consulting services, not HR solutions; also located in Ukraine, not Europe's primary HR market."
+    },
+    {
+      "company": "EasyKassa",
+      "website": "easykassa.at",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3762,
+      "reason": "Provides payment processing and e-commerce solutions, not HR software."
+    },
+    {
+      "company": "CBRE Romania",
+      "website": "cbre.ro",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3699,
+      "reason": "Provides real estate services and property management, not HR software solutions."
+    },
+    {
+      "company": "ai2device",
+      "website": "ai2device.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3692,
+      "reason": "Develops AI-powered smart devices and ML solutions, not HR software."
+    },
+    {
+      "company": "visusta",
+      "website": "visusta.ch",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3676,
+      "reason": "Environmental consulting services company, does not provide HR solutions."
+    },
+    {
+      "company": "MA-Engineering",
+      "website": "ma-engineering.ch",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3649,
+      "reason": "Engineering services for construction projects, does not provide HR solutions."
+    },
+    {
+      "company": "windainergy",
+      "website": "windainergy.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3635,
+      "reason": "Wind turbine manufacturing and renewable energy company, does not provide HR solutions."
+    },
+    {
+      "company": "IBSA",
+      "website": "ibsagroup.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3634,
+      "reason": "Pharmaceutical manufacturing company, does not provide HR solutions."
+    },
+    {
+      "company": "BayWa r.e. Scandinavia",
+      "website": null,
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3633,
+      "reason": "Renewable energy and semiconductor manufacturing company, does not provide HR solutions."
+    },
+    {
+      "company": "Sumitomo Pharma Switzerland",
+      "website": "sumitomo-pharma.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.363,
+      "reason": "Pharmaceutical manufacturing and research company, does not provide HR solutions."
+    },
+    {
+      "company": "AbelaPharm",
+      "website": "abelapharm.ch",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3623,
+      "reason": "Pharmaceutical and dietary supplement manufacturing company, does not provide HR solutions."
+    },
+    {
+      "company": "Kortical",
+      "website": "kortical.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3608,
+      "reason": "AI and machine learning software company, does not provide HR solutions."
+    },
+    {
+      "company": "Tillotts Pharma",
+      "website": "tillotts.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3607,
+      "reason": "Pharmaceutical manufacturing company, does not provide HR solutions."
+    },
+    {
+      "company": "World Wide Wind",
+      "website": "worldwidewind.no",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3595,
+      "reason": "Wind turbine manufacturing company, does not provide HR solutions."
+    }
+  ],
+  "Clean energy startups founded after 2018 with fewer than 200 employees": [
+    {
+      "company": "Fred. Olsen 1848",
+      "website": "fredolsen1848.com",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.4247,
+      "reason": "Norwegian clean energy startup founded 2021 with 15 employees developing and manufacturing floating wind and solar technologies."
+    },
+    {
+      "company": "Ventum Dynamics",
+      "website": "ventumdynamics.com",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.4072,
+      "reason": "Norwegian clean energy startup with 14 employees designing and manufacturing wind turbines for sustainable energy production."
+    },
+    {
+      "company": "World Wide Wind",
+      "website": "worldwidewind.no",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.4042,
+      "reason": "Norwegian clean energy startup founded 2021 with 6 employees developing and deploying vertical axis offshore wind turbines."
+    },
+    {
+      "company": "Sol Industries",
+      "website": "sol-ind.com",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.335,
+      "reason": "Manufactures micro wind turbines for renewable energy generation, founded after 2018 with <200 employees, perfect match for clean energy startup requirement."
+    },
+    {
+      "company": "Verta",
+      "website": null,
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.3331,
+      "reason": "Manufactures small-scale vertical axis wind turbines for clean energy generation, founded 2023 with <200 employees, perfect match for clean energy startup requirement."
+    },
+    {
+      "company": "windainergy",
+      "website": "windainergy.com",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.3213,
+      "reason": "Manufactures small-scale wind turbines and AI-optimized wind power systems, directly generating clean energy; founded after 2018 with fewer than 200 employees."
+    },
+    {
+      "company": "VASOL TECH",
+      "website": "vasol.se",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.315,
+      "reason": "Manufactures solar power generation units and energy storage systems for clean energy production; founded after 2018 with 6 employees."
+    },
+    {
+      "company": "Pellbin Turbine",
+      "website": "pellbin.se",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.3129,
+      "reason": "Develops and manufactures ocean and tidal current turbines for clean energy generation; founded after 2018 with fewer than 200 employees."
+    },
+    {
+      "company": "NextGEN Energy",
+      "website": "nextgen-energy.eu",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.3004,
+      "reason": "Develops and manufactures battery energy storage systems and renewable energy solutions; founded in 2024 with fewer than 200 employees."
+    },
+    {
+      "company": "Mitra Chem",
+      "website": "mitrachem.com",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.2873,
+      "reason": "Manufactures lithium-ion battery materials for renewable energy and storage, founded 2021, 60 employees, perfect fit."
+    },
+    {
+      "company": "Nuvvon",
+      "website": "nuvvon.com",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.2848,
+      "reason": "Develops and manufactures solid-state lithium metal batteries for clean energy storage, founded 2022, 9 employees, perfect fit."
+    },
+    {
+      "company": "RJETech",
+      "website": null,
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.2834,
+      "reason": "Manufactures clean energy products (battery cells, energy storage systems) as primary business, founded 2022, fewer than 200 employees."
+    },
+    {
+      "company": "BRF Vivstavarvsvägen",
+      "website": "vivstavarvsvagen.se",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.2745,
+      "reason": "Manufactures and installs solar panels as primary business, founded 2025, fewer than 200 employees."
+    },
+    {
+      "company": "Ecopwr",
+      "website": "ecopwr.se",
+      "match": true,
+      "llm_score": 4,
+      "emb_score": 0.35,
+      "reason": "Manufactures and retails clean energy products (solar panels, generators, power stations) but lacks founding date confirmation and employee count data; benefits of doubt applied for numeric constraints."
+    },
+    {
+      "company": "Climatico",
+      "website": "climatico.dk",
+      "match": true,
+      "llm_score": 4,
+      "emb_score": 0.3371,
+      "reason": "Produces and installs wind turbines, solar panels, and renewable energy solutions, but lacks founding date and employee count confirmation."
+    },
+    {
+      "company": "Kraftkar Energi",
+      "website": "kraftkarenergi.no",
+      "match": true,
+      "llm_score": 4,
+      "emb_score": 0.3324,
+      "reason": "Manufactures and installs solar panels for renewable energy generation but lacks founding date confirmation and employee count data."
+    },
+    {
+      "company": "Sowin Power",
+      "website": "sowinpower.no",
+      "match": true,
+      "llm_score": 4,
+      "emb_score": 0.3233,
+      "reason": "Develops and manufactures clean energy power stations combining solar, wind, and battery storage; founded after 2018 with fewer than 200 employees."
+    },
+    {
+      "company": "Sembakken",
+      "website": "sembakken.dk",
+      "match": true,
+      "llm_score": 4,
+      "emb_score": 0.3165,
+      "reason": "Manufactures and installs solar energy systems including photovoltaic panels; founded after 2018 with fewer than 200 employees."
+    },
+    {
+      "company": "Sunnytek",
+      "website": "sunnytek.se",
+      "match": true,
+      "llm_score": 4,
+      "emb_score": 0.3082,
+      "reason": "Manufactures solar panels, inverters, and renewable energy solutions; founded after 2018 with fewer than 200 employees."
+    },
+    {
+      "company": "Krefter",
+      "website": "krefter.no",
+      "match": true,
+      "llm_score": 4,
+      "emb_score": 0.3037,
+      "reason": "Develops and operates renewable energy solutions including hydropower, wind power, and hydrogen production; founded after 2018 with fewer than 200 employees."
+    },
+    {
+      "company": "Blue New Energy Technology",
+      "website": "lionteam.com.cn",
+      "match": true,
+      "llm_score": 4,
+      "emb_score": 0.2949,
+      "reason": "Manufactures lithium-ion battery materials for clean energy, founded 2024, fewer than 200 employees (data missing but benefit of doubt applied)."
+    },
+    {
+      "company": "Energy-Technik",
+      "website": "energy-technik.com",
+      "match": true,
+      "llm_score": 4,
+      "emb_score": 0.2929,
+      "reason": "Designs and installs solar photovoltaic systems and power generation infrastructure, founded 2025, 1 employee."
+    },
+    {
+      "company": "Hisun",
+      "website": "thehisun.com",
+      "match": true,
+      "llm_score": 4,
+      "emb_score": 0.2752,
+      "reason": "Manufactures battery materials and electrolytes for clean energy applications, founded 2022, fewer than 200 employees."
+    },
+    {
+      "company": "Logic-Energy",
+      "website": "teunhulst.nl",
+      "match": false,
+      "llm_score": 2,
+      "emb_score": 0.3794,
+      "reason": "Founded date unknown and missing employee count; cannot verify startup status or founding after 2018 requirement."
+    },
+    {
+      "company": "Tesla Ocean Turbine",
+      "website": "teslaoceanturbine.com",
+      "match": false,
+      "llm_score": 2,
+      "emb_score": 0.3781,
+      "reason": "Founded date unknown; cannot verify startup status or founding after 2018 requirement."
+    },
+    {
+      "company": "Wave Dragon",
+      "website": "wavedragon.com",
+      "match": false,
+      "llm_score": 2,
+      "emb_score": 0.371,
+      "reason": "Founded date unknown; cannot verify startup status or founding after 2018 requirement."
+    },
+    {
+      "company": "Next Fabrication",
+      "website": "nextfabrication.com",
+      "match": false,
+      "llm_score": 2,
+      "emb_score": 0.3469,
+      "reason": "Manufactures components for renewable energy systems rather than producing clean energy itself; supplies the industry rather than doing it."
+    },
+    {
+      "company": "Wanbang New Energy",
+      "website": "scusne.com",
+      "match": false,
+      "llm_score": 2,
+      "emb_score": 0.3367,
+      "reason": "Founded 2019 but manufactures battery materials and components rather than generating or producing clean energy directly."
+    },
+    {
+      "company": "Home Energy",
+      "website": "homeenergy.se",
+      "match": false,
+      "llm_score": 2,
+      "emb_score": 0.3302,
+      "reason": "Primarily a wholesaler and distributor of renewable energy products rather than a clean energy producer or developer."
+    },
+    {
+      "company": "KVA Wind",
+      "website": "kva-vind.dk",
+      "match": false,
+      "llm_score": 2,
+      "emb_score": 0.3111,
+      "reason": "Revenue of $34.7M and primary service model focused on maintenance and installation suggests more than 200 employees; exceeds employee threshold."
+    },
+    {
+      "company": "Nanjing Blue Solid New Energy",
+      "website": "liongo.com.cn",
+      "match": false,
+      "llm_score": 2,
+      "emb_score": 0.3105,
+      "reason": "Supplies battery electrolytes to the energy sector rather than generating or producing clean energy itself."
+    },
+    {
+      "company": "PACE",
+      "website": "pace-energy.eu",
+      "match": false,
+      "llm_score": 2,
+      "emb_score": 0.3075,
+      "reason": "Promotes and advocates for fuel cell technology but is a research project/service provider, not a clean energy company that produces or deploys systems at scale."
+    },
+    {
+      "company": "Yide New Energy",
+      "website": "hunanyide.com",
+      "match": false,
+      "llm_score": 2,
+      "emb_score": 0.3063,
+      "reason": "Manufactures battery anode materials for supply to other industries rather than being a clean energy producer itself."
+    },
+    {
+      "company": "SideWind",
+      "website": "sidewind.is",
+      "match": false,
+      "llm_score": 2,
+      "emb_score": 0.3003,
+      "reason": "Develops wind turbines but founded in 2019 (before 2018 constraint) and revenue suggests exceeding 200 employees threshold."
+    },
+    {
+      "company": "Erikshester Vindpark",
+      "website": "vindparken.se",
+      "match": false,
+      "llm_score": 2,
+      "emb_score": 0.299,
+      "reason": "Manufactures wind turbines but founded before 2018 (no founding date provided, but revenue scale suggests established company)."
+    },
+    {
+      "company": "Volta Capital",
+      "website": "voltacapital.it",
+      "match": false,
+      "llm_score": 2,
+      "emb_score": 0.299,
+      "reason": "Provides consulting and installation services rather than doing clean energy production itself; primarily a service provider."
+    },
+    {
+      "company": "David Nyren",
+      "website": "davidnyren.se",
+      "match": false,
+      "llm_score": 2,
+      "emb_score": 0.2873,
+      "reason": "Manufactures and installs solar panels but no founding date provided; company scale and revenue suggest pre-2018 establishment."
+    },
+    {
+      "company": "Fallorka",
+      "website": "fallorka.is",
+      "match": false,
+      "llm_score": 2,
+      "emb_score": 0.285,
+      "reason": "Manufactures wind turbines but no founding date provided; revenue scale ($135M+) suggests established company predating 2018."
+    },
+    {
+      "company": "Asvata",
+      "website": "asvata.com",
+      "match": false,
+      "llm_score": 2,
+      "emb_score": 0.2842,
+      "reason": "Develops carbon offset projects and consults on renewable energy rather than operating or producing clean energy directly."
+    },
+    {
+      "company": "IKM InWind",
+      "website": null,
+      "match": false,
+      "llm_score": 2,
+      "emb_score": 0.2807,
+      "reason": "Primarily provides maintenance and repair services for renewable energy infrastructure, not a clean energy producer or developer."
+    },
+    {
+      "company": "MCR Proyectos",
+      "website": "mcrproyectos.cl",
+      "match": false,
+      "llm_score": 2,
+      "emb_score": 0.2803,
+      "reason": "Provides engineering and construction services for hydroelectric projects, not the clean energy developer itself."
+    },
+    {
+      "company": "Teqniq",
+      "website": "teqniq.fi",
+      "match": false,
+      "llm_score": 2,
+      "emb_score": 0.2745,
+      "reason": "Provides verification and measurement services for wind turbines, not a clean energy producer or developer."
+    },
+    {
+      "company": "Varmalämmitys",
+      "website": "varmalammitys.fi",
+      "match": false,
+      "llm_score": 2,
+      "emb_score": 0.2744,
+      "reason": "Revenue of $79M exceeds reasonable employee count threshold; primarily services and sells equipment rather than develops/produces clean energy."
+    },
+    {
+      "company": "Norhybrid Renewables",
+      "website": "norhybrid.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3777,
+      "reason": "Founded 2020 but is part of Hydro Rein (Norsk Hydro division), making it a subsidiary of a major corporation rather than an independent startup."
+    },
+    {
+      "company": "Indonesia BTR New Energy Material",
+      "website": null,
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3625,
+      "reason": "Battery manufacturer, not a clean energy producer; manufactures materials/components for energy rather than producing clean energy."
+    },
+    {
+      "company": "Siemens Energy",
+      "website": null,
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3623,
+      "reason": "Large multinational corporation (Siemens subsidiary), not a startup; does not meet startup criteria."
+    },
+    {
+      "company": "Thyborøn Sydhavn 2 | Vestas-mølle",
+      "website": "thybsydhavnmolle-2.dk",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3614,
+      "reason": "Vestas subsidiary or joint venture with major corporation; not an independent startup."
+    },
+    {
+      "company": "Utilify",
+      "website": "utilifyapp.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3484,
+      "reason": "Provides energy consulting and digital auditing services, not clean energy generation or production."
+    },
+    {
+      "company": "WindSpider",
+      "website": "windspider.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3424,
+      "reason": "Founded 2020 (after 2018) with <200 employees, but manufactures lifting equipment for wind turbines, not clean energy generation itself."
+    },
+    {
+      "company": "visusta",
+      "website": "visusta.ch",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3347,
+      "reason": "Provides sustainability and energy efficiency consulting services, not clean energy production or generation."
+    },
+    {
+      "company": "Taibang New Energy",
+      "website": "ctlne.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3287,
+      "reason": "Manufactures battery materials and components, not clean energy itself; serves as a supplier to the energy sector."
+    },
+    {
+      "company": "Shenzhen Atsm Energy",
+      "website": "atsmlab.en.alibaba.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3278,
+      "reason": "Manufactures lithium battery materials and equipment, not clean energy generation; founded in 2024 but is a battery supply company."
+    },
+    {
+      "company": "Altmin",
+      "website": "altmin.in",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.324,
+      "reason": "Manufactures battery materials and cell components for the energy sector, not clean energy generation itself."
+    },
+    {
+      "company": "BrightLNK",
+      "website": "brightlnk.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3091,
+      "reason": "Provides engineering and supply chain services to multiple industries including clean tech, but does not produce clean energy."
+    },
+    {
+      "company": "BlueTec Vest",
+      "website": "bluetecvest.no",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3066,
+      "reason": "Revenue of $18.97M indicates more than 200 employees, exceeding the employee constraint."
+    },
+    {
+      "company": "Collective Knowledge",
+      "website": "cknowledge.org",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3064,
+      "reason": "Software and AI company with no connection to clean energy production or services."
+    },
+    {
+      "company": "Tri Hita Consulting",
+      "website": "trihita-consulting.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.2979,
+      "reason": "Pure consulting firm advising on energy and climate, not producing or operating clean energy solutions."
+    },
+    {
+      "company": "Ecoviso",
+      "website": "ecoviso.fr",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.2768,
+      "reason": "Environmental consulting firm focused on water management and sustainability, not a clean energy company."
+    },
+    {
+      "company": "Planethon",
+      "website": "planethon.io",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.2754,
+      "reason": "Management consulting and advisory services firm, not a clean energy producer or developer."
+    },
+    {
+      "company": "Verdantika",
+      "website": "verdantika.co.in",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.2738,
+      "reason": "Advisory and consulting firm focused on sustainability and decarbonization, not a clean energy company."
+    }
+  ],
+  "Fast-growing fintech companies competing with traditional banks in Europe": [
+    {
+      "company": "Folio",
+      "website": "folio.no",
+      "match": true,
+      "llm_score": 4,
+      "emb_score": 0.373,
+      "reason": "A Norwegian neobank-style fintech providing business banking, accounts, payroll, and accounting tools to SMEs, directly competing with traditional banks in Europe."
+    },
+    {
+      "company": "Aircash",
+      "website": "aircash.eu",
+      "match": true,
+      "llm_score": 4,
+      "emb_score": 0.3115,
+      "reason": "Croatian electronic money institution offering digital wallets and payment services across multiple European countries, directly competing with traditional banking payment infrastructure, though its small revenue and limited scope reduce the 'fast-growing' confidence somewhat."
+    },
+    {
+      "company": "Mangal Money Transfer",
+      "website": "mangalmoneytransfer.co.uk",
+      "match": true,
+      "llm_score": 3,
+      "emb_score": 0.3102,
+      "reason": "UK-based FCA-authorized remittance and foreign exchange fintech operating in Europe, but its tiny size, minimal revenue, and niche remittance focus make it a borderline match for 'fast-growing' and meaningfully competing with traditional banks."
+    },
+    {
+      "company": "Phin",
+      "website": "phintech.de",
+      "match": false,
+      "llm_score": 3,
+      "emb_score": 0.3838,
+      "reason": "Phin is a German fintech operating a mobile banking aggregation platform across 18 European countries, which is directionally relevant, but it aggregates existing bank accounts rather than competing with traditional banks as a challenger bank or financial services provider."
+    },
+    {
+      "company": "New Payment Innovation",
+      "website": "npi.ie",
+      "match": false,
+      "llm_score": 2,
+      "emb_score": 0.4757,
+      "reason": "It is a payment processing service provider and technology platform for merchants in Ireland, but it does not operate as a fintech company competing with traditional banks — it serves businesses as a B2B payment infrastructure supplier."
+    },
+    {
+      "company": "European Pay",
+      "website": "european-pay.fr",
+      "match": false,
+      "llm_score": 2,
+      "emb_score": 0.4174,
+      "reason": "European Pay is a French fintech with a digital payment platform and wallet, which touches on banking alternatives, but with only 2 employees and less than $1M revenue it cannot credibly be described as fast-growing and competing with traditional banks."
+    },
+    {
+      "company": "Euro-Rijn Financial Services",
+      "website": "erfinancial.services",
+      "match": false,
+      "llm_score": 2,
+      "emb_score": 0.4137,
+      "reason": "Euro-Rijn is a Dutch financial services company focused on commodity trade finance, not a consumer or retail-facing fintech competing with traditional banks."
+    },
+    {
+      "company": "Credito21",
+      "website": "credito21.es",
+      "match": false,
+      "llm_score": 2,
+      "emb_score": 0.3893,
+      "reason": "Credito21 is a Spanish credit comparison and financial advisory platform, meaning it aggregates and refers users to banks rather than competing with them as a fintech provider."
+    },
+    {
+      "company": "CTC FUND",
+      "website": "ctcfundlimited.com",
+      "match": false,
+      "llm_score": 2,
+      "emb_score": 0.3827,
+      "reason": "While a UK-based fintech operating in financial services, it focuses on decentralized/blockchain lending and was founded in 2024 with no evidence of fast growth or direct competition with traditional banks."
+    },
+    {
+      "company": "Rantum Capital",
+      "website": "rantumcapital.de",
+      "match": false,
+      "llm_score": 2,
+      "emb_score": 0.3795,
+      "reason": "A German private debt and equity fund manager serving mid-sized companies, not a fintech company competing with traditional banks."
+    },
+    {
+      "company": "Salauddin Global Trading",
+      "website": "salauddinglobal.co.uk",
+      "match": false,
+      "llm_score": 2,
+      "emb_score": 0.3602,
+      "reason": "A UK-based money transfer service with very small revenue, not meaningfully competing with traditional banks as a fast-growing fintech."
+    },
+    {
+      "company": "Tietoevry",
+      "website": "tietoevry.com",
+      "match": false,
+      "llm_score": 2,
+      "emb_score": 0.3572,
+      "reason": "A Finnish IT and software services company that serves the fintech sector but does not itself provide financial services or compete with traditional banks."
+    },
+    {
+      "company": "ECrowd Invest",
+      "website": null,
+      "match": false,
+      "llm_score": 2,
+      "emb_score": 0.336,
+      "reason": "Spanish crowd lending fintech platform in Europe but focused on niche environmental/social investing rather than broadly competing with traditional banks."
+    },
+    {
+      "company": "Agility FX",
+      "website": "agility-fx.co.uk",
+      "match": false,
+      "llm_score": 2,
+      "emb_score": 0.3292,
+      "reason": "Agility FX is a UK-based FX and payments company, which is fintech-adjacent, but it is not competing with traditional banks in the retail/full-service banking sense, and there is no evidence of fast growth or direct bank competition."
+    },
+    {
+      "company": "Novartis",
+      "website": "novartis.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.4299,
+      "reason": "Novartis is a Swiss pharmaceutical company with no involvement in fintech, digital banking, or financial services."
+    },
+    {
+      "company": "Sumitomo Pharma Switzerland",
+      "website": "sumitomo-pharma.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.4245,
+      "reason": "Sumitomo Pharma Switzerland is a pharmaceutical manufacturer with no connection to fintech or banking."
+    },
+    {
+      "company": "Lonza",
+      "website": "lonza.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.418,
+      "reason": "Lonza is a Swiss contract development and manufacturing organization for the healthcare industry, entirely unrelated to fintech or banking."
+    },
+    {
+      "company": "Celonic",
+      "website": "celonic.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.4086,
+      "reason": "Celonic is a Swiss biologics contract development and manufacturing company with no relevance to fintech or banking."
+    },
+    {
+      "company": "Ferring",
+      "website": "ferring.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3978,
+      "reason": "Ferring is a Swiss biopharmaceutical company focused on reproductive and maternal health, entirely unrelated to fintech or banking."
+    },
+    {
+      "company": "Telefónica Venture Builder",
+      "website": "telefonica.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3744,
+      "reason": "A Spanish telecom venture builder and digital innovation company, not a fintech company competing with traditional banks."
+    },
+    {
+      "company": "European Drinks",
+      "website": "europeandrinks.ro",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3633,
+      "reason": "A Romanian beverage manufacturing and distribution company with no connection to fintech or banking."
+    },
+    {
+      "company": "MSD",
+      "website": "msd.ch",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.359,
+      "reason": "A Swiss biopharmaceutical company with no relevance to fintech or banking."
+    },
+    {
+      "company": "OLYMPIAN OPTIMIZATIONS",
+      "website": "olympianopt.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3588,
+      "reason": "A Greek mechanical and electrical engineering company with no connection to fintech or banking."
+    },
+    {
+      "company": "CRISPR Therapeutics",
+      "website": "crisprtx.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3532,
+      "reason": "A Swiss-American biotechnology company focused on gene editing therapies, entirely unrelated to fintech or banking."
+    },
+    {
+      "company": "A. Menarini",
+      "website": "menarini.ch",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3482,
+      "reason": "Swiss pharmaceutical company with no involvement in fintech, banking, or financial services."
+    },
+    {
+      "company": "Helsinn",
+      "website": "helsinn.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3457,
+      "reason": "Swiss pharmaceutical company focused on oncology and rare diseases, not a fintech competitor to banks."
+    },
+    {
+      "company": "CordenPharma",
+      "website": "cordenpharma.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3447,
+      "reason": "Contract pharmaceutical manufacturer with no connection to fintech or financial services."
+    },
+    {
+      "company": "Mon BE Fluides",
+      "website": "monbefluides.fr",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3392,
+      "reason": "French engineering company specializing in fluid systems for buildings, entirely unrelated to fintech or banking."
+    },
+    {
+      "company": "TRB Chemedica",
+      "website": "trbchemedica.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3369,
+      "reason": "Swiss pharmaceutical company focused on hyaluronic acid-based products, not a fintech or financial services provider."
+    },
+    {
+      "company": "Fastnet",
+      "website": "fastnet.se",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3364,
+      "reason": "Swedish renewable energy project development company with no connection to fintech or banking."
+    },
+    {
+      "company": "Galderma",
+      "website": "galderma.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3362,
+      "reason": "Swiss dermatology pharmaceutical company with no involvement in fintech or financial services."
+    },
+    {
+      "company": "Idorsia",
+      "website": "idorsia.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3357,
+      "reason": "Swiss biopharmaceutical company focused on small molecule therapeutics, not a fintech company."
+    },
+    {
+      "company": "ai2device",
+      "website": "ai2device.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3343,
+      "reason": "Polish AI and blockchain device development company, not a fintech company competing with banks."
+    },
+    {
+      "company": "visusta",
+      "website": "visusta.ch",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3287,
+      "reason": "visusta is a Swiss sustainability consulting firm with no connection to fintech or banking."
+    },
+    {
+      "company": "Vetipak",
+      "website": null,
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3266,
+      "reason": "Vetipak is a Dutch co-packing and packaging company with no relation to fintech or financial services."
+    },
+    {
+      "company": "ProximaScale",
+      "website": "proximascale.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3255,
+      "reason": "ProximaScale is a Ukrainian AI development and consulting firm, not a fintech company competing with banks."
+    },
+    {
+      "company": "Factorial",
+      "website": "factorialhr.de",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3246,
+      "reason": "Factorial is a Spanish HR software company and does not operate as a fintech competitor to traditional banks."
+    },
+    {
+      "company": "Atos",
+      "website": "atos.net",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3206,
+      "reason": "Atos is a French IT services and digital transformation company, not a fintech company competing with traditional banks."
+    },
+    {
+      "company": "Ford Credit",
+      "website": "ford.co.uk",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3206,
+      "reason": "Ford Credit is a captive automotive financing arm of Ford Motor Company, not a fast-growing independent fintech competitor to traditional banks."
+    },
+    {
+      "company": "BTN de Haas",
+      "website": "btndehaas.nl",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3179,
+      "reason": "BTN de Haas is a Dutch agricultural wholesaler with no connection to fintech or banking."
+    },
+    {
+      "company": "Roca",
+      "website": "roca.es",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3152,
+      "reason": "Roca is a Spanish bathroom products manufacturer with no connection to fintech or financial services."
+    },
+    {
+      "company": "Novative",
+      "website": "novative.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3148,
+      "reason": "Novative is a Swiss HR and payroll software/services company and does not compete with traditional banks as a fintech provider."
+    },
+    {
+      "company": "Fildas Trading",
+      "website": "fildas.ro",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3145,
+      "reason": "Romanian pharmaceutical wholesale and retail company with no connection to fintech, digital banking, or financial services."
+    },
+    {
+      "company": "Hydra Tidal Energy Technology",
+      "website": null,
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3137,
+      "reason": "Norwegian tidal and offshore renewable energy technology developer, completely unrelated to fintech or banking."
+    },
+    {
+      "company": "Kermené",
+      "website": "kermene.fr",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3126,
+      "reason": "French meat processing and distribution company with no relevance to fintech or financial services."
+    },
+    {
+      "company": "PolyPeptide",
+      "website": "polypeptide.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3121,
+      "reason": "Swiss contract pharmaceutical and peptide manufacturing organization with no connection to fintech or banking."
+    },
+    {
+      "company": "ADC Therapeutics",
+      "website": "adctherapeutics.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3103,
+      "reason": "Swiss biotechnology company focused on antibody drug conjugates for cancer treatment, entirely unrelated to fintech or financial services."
+    },
+    {
+      "company": "Sintea",
+      "website": "sintea.eu",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3102,
+      "reason": "Italian agronomic consulting firm serving the agricultural sector with no connection to fintech or banking."
+    },
+    {
+      "company": "PACE",
+      "website": "pace-energy.eu",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3096,
+      "reason": "EU-funded project promoting fuel cell micro-cogeneration systems in the energy sector, entirely unrelated to fintech or banking."
+    },
+    {
+      "company": "Kortical",
+      "website": "kortical.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3083,
+      "reason": "UK-based AI and machine learning software platform company with no direct role as a fintech provider competing with banks."
+    },
+    {
+      "company": "CARBOGEN AMCIS",
+      "website": "carbogen-amcis.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3063,
+      "reason": "A pharmaceutical CDMO with no connection to fintech, banking, or financial services in Europe."
+    },
+    {
+      "company": "OM Pharma",
+      "website": "ompharma.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3054,
+      "reason": "A Swiss biopharmaceutical company focused on immunomodulators and bacterial lysates, entirely unrelated to fintech or banking."
+    },
+    {
+      "company": "Infer Systems",
+      "website": "infer.systems",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3052,
+      "reason": "A UK data engineering and AI/ML services company, not a fintech company competing with traditional banks."
+    },
+    {
+      "company": "Lonza Capsules & Health Ingredients",
+      "website": "capsugel.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3045,
+      "reason": "A Swiss pharmaceutical and nutraceutical capsule manufacturer with no relation to fintech or financial services."
+    },
+    {
+      "company": "Katana ML",
+      "website": "katanaml.io",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3024,
+      "reason": "A Lithuanian MLOps infrastructure platform company, not a fintech company competing with traditional banks."
+    },
+    {
+      "company": "Asys",
+      "website": "asys.fr",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3015,
+      "reason": "A French HR management software publisher with no involvement in financial services or fintech."
+    },
+    {
+      "company": "Styri",
+      "website": "styri.eu",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3006,
+      "reason": "A Norwegian maritime and clean energy engineering consultancy, entirely unrelated to fintech or banking."
+    },
+    {
+      "company": "Zellis",
+      "website": "zellis.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.2972,
+      "reason": "A UK HR, payroll, and workforce management software provider, not a fintech company competing with traditional banks."
+    },
+    {
+      "company": "World Wide Wind",
+      "website": "worldwidewind.no",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.2957,
+      "reason": "A Norwegian offshore wind turbine developer with no connection to fintech or financial services."
+    },
+    {
+      "company": "Collective Knowledge",
+      "website": "cknowledge.org",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.2951,
+      "reason": "A French AI/ML open-source platform and consulting company, not a fintech company competing with traditional banks."
+    }
+  ],
+  "E-commerce companies using Shopify or similar platforms": [
+    {
+      "company": "Hy-Vee",
+      "website": "hy-vee.com",
+      "match": true,
+      "llm_score": 4,
+      "emb_score": 0.3929,
+      "reason": "E-commerce company operating online ordering and delivery services, though primary description does not explicitly mention Shopify platform."
+    },
+    {
+      "company": "Nespresso",
+      "website": "nespresso.com",
+      "match": true,
+      "llm_score": 4,
+      "emb_score": 0.3783,
+      "reason": "E-commerce company selling products directly to consumers through multiple channels including e-commerce operations, though specific platform not confirmed."
+    },
+    {
+      "company": "Lululemon",
+      "website": "lululemon.com",
+      "match": true,
+      "llm_score": 4,
+      "emb_score": 0.3688,
+      "reason": "E-commerce company operating online retail platform, though specific Shopify/similar platform usage not confirmed."
+    },
+    {
+      "company": "PEZ Candy",
+      "website": "pez.com",
+      "match": true,
+      "llm_score": 4,
+      "emb_score": 0.3683,
+      "reason": "E-commerce company with online stores and retail operations, though specific platform technology not confirmed."
+    },
+    {
+      "company": "The Home Depot",
+      "website": "homedepot.com",
+      "match": true,
+      "llm_score": 4,
+      "emb_score": 0.3658,
+      "reason": "E-commerce retailer operating Shopify-like platforms for direct consumer sales, though primarily known for physical stores."
+    },
+    {
+      "company": "Harbor Freight",
+      "website": "harborfreight.com",
+      "match": true,
+      "llm_score": 4,
+      "emb_score": 0.3622,
+      "reason": "E-commerce retailer operating digital storefronts and e-commerce platform for direct consumer sales."
+    },
+    {
+      "company": "BTN de Haas",
+      "website": "btndehaas.nl",
+      "match": true,
+      "llm_score": 3,
+      "emb_score": 0.3671,
+      "reason": "E-commerce and retail operation with online presence, but unclear if using Shopify or similar platforms."
+    },
+    {
+      "company": "Produit en Bretagne",
+      "website": "produitenbretagne.bzh",
+      "match": true,
+      "llm_score": 3,
+      "emb_score": 0.3663,
+      "reason": "Operates online boutique for e-commerce, but specific platform technology not confirmed."
+    },
+    {
+      "company": "Flextribe",
+      "website": "flextribe.co",
+      "match": false,
+      "llm_score": 2,
+      "emb_score": 0.4444,
+      "reason": "Packaging manufacturer with e-commerce operations, but does not use e-commerce as primary business model and no evidence of Shopify or similar platform usage."
+    },
+    {
+      "company": "Coles",
+      "website": "coles.com.au",
+      "match": false,
+      "llm_score": 2,
+      "emb_score": 0.4284,
+      "reason": "Grocery retailer with e-commerce capability, but no evidence of using Shopify or similar third-party platforms."
+    },
+    {
+      "company": "Walmart",
+      "website": "walmart.com",
+      "match": false,
+      "llm_score": 2,
+      "emb_score": 0.4126,
+      "reason": "Retail corporation with e-commerce operations, but owns proprietary platform infrastructure rather than using Shopify or similar third-party platforms."
+    },
+    {
+      "company": "Avery",
+      "website": "avery.com",
+      "match": false,
+      "llm_score": 2,
+      "emb_score": 0.3861,
+      "reason": "Manufacturing and office supplies company with e-commerce channel, but primary business is manufacturing, not operating an e-commerce store on Shopify."
+    },
+    {
+      "company": "Aurelo Packaging Co",
+      "website": "aurelopackaging.com.au",
+      "match": false,
+      "llm_score": 2,
+      "emb_score": 0.3743,
+      "reason": "Packaging manufacturer with e-commerce retail, but primarily a supplier, not an e-commerce business using Shopify-like platforms to sell products."
+    },
+    {
+      "company": "EasyKassa",
+      "website": "easykassa.at",
+      "match": false,
+      "llm_score": 2,
+      "emb_score": 0.3645,
+      "reason": "Provides e-commerce platform development services and payment processing, but does not operate its own e-commerce business using Shopify."
+    },
+    {
+      "company": "Dell Technologies",
+      "website": "dell.com",
+      "match": false,
+      "llm_score": 2,
+      "emb_score": 0.3582,
+      "reason": "Technology manufacturer and retailer with e-commerce operations, but primary business is hardware manufacturing and distribution, not e-commerce operations via Shopify."
+    },
+    {
+      "company": "Roca",
+      "website": "roca.es",
+      "match": false,
+      "llm_score": 2,
+      "emb_score": 0.354,
+      "reason": "Bathroom products manufacturer with e-commerce presence, but primary business is manufacturing and wholesale, not e-commerce operations via Shopify."
+    },
+    {
+      "company": "Efemarai Continuum",
+      "website": "efemarai.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.4472,
+      "reason": "AI/ML testing platform provider, not an e-commerce company using Shopify or similar platforms."
+    },
+    {
+      "company": "AI Partnerships",
+      "website": "aipartnershipscorp.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.4231,
+      "reason": "AI solutions affiliate network and consulting firm, not an e-commerce company."
+    },
+    {
+      "company": "European Pay",
+      "website": "european-pay.fr",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.4195,
+      "reason": "Fintech payment platform provider, not an e-commerce company using Shopify or similar platforms."
+    },
+    {
+      "company": "ASGN",
+      "website": "asgn.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.4164,
+      "reason": "IT consulting and professional staffing services company, not an e-commerce company."
+    },
+    {
+      "company": "Vetipak",
+      "website": null,
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.4146,
+      "reason": "Packaging manufacturer and co-packing provider, not an e-commerce company."
+    },
+    {
+      "company": "Tietoevry",
+      "website": "tietoevry.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.4117,
+      "reason": "Software development and IT consulting services company, not an e-commerce company."
+    },
+    {
+      "company": "New Payment Innovation",
+      "website": "npi.ie",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.4117,
+      "reason": "Payment processing and merchant services provider, not an e-commerce company using Shopify or similar platforms."
+    },
+    {
+      "company": "TrueFoundry",
+      "website": "true-foundry.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.4059,
+      "reason": "ML platform automation software provider, not an e-commerce company using Shopify or similar platforms."
+    },
+    {
+      "company": "Simplismart",
+      "website": "simplismart.ai",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.4025,
+      "reason": "ML model deployment service provider, not an e-commerce company using Shopify or similar platforms."
+    },
+    {
+      "company": "ICON HR",
+      "website": "iconhrsoftware.azurewebsites.net",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.4021,
+      "reason": "HR software provider, not an e-commerce company using Shopify or similar platforms."
+    },
+    {
+      "company": "Infer Systems",
+      "website": "infer.systems",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3878,
+      "reason": "Data engineering and ML operations service provider, not an e-commerce company using Shopify or similar platforms."
+    },
+    {
+      "company": "Globant",
+      "website": "globant.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3876,
+      "reason": "IT and software development services company, not an e-commerce company using Shopify or similar platforms."
+    },
+    {
+      "company": "Brink's Solutions Nederland",
+      "website": "brinks.nl",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3845,
+      "reason": "Cash management and payment processing service provider, not an e-commerce company using Shopify or similar platforms."
+    },
+    {
+      "company": "Collective Knowledge",
+      "website": "cknowledge.org",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3812,
+      "reason": "AI and ML platform development company, not an e-commerce company using Shopify or similar platforms."
+    },
+    {
+      "company": "Ariv Pay",
+      "website": "arivpay.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3808,
+      "reason": "Payment processing service provider, not an e-commerce company using Shopify or similar platforms."
+    },
+    {
+      "company": "AIAdvantage",
+      "website": "cool-run.click",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3783,
+      "reason": "AI/ML service provider, not an e-commerce company using Shopify or similar platforms."
+    },
+    {
+      "company": "Ciphr",
+      "website": "ciphr.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3773,
+      "reason": "HR and payroll software provider, not an e-commerce company."
+    },
+    {
+      "company": "Buzz HR",
+      "website": "buzzhr.co.uk",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3764,
+      "reason": "HR software SaaS provider, not an e-commerce company."
+    },
+    {
+      "company": "Lumeros AI",
+      "website": "lumeros.ai",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.376,
+      "reason": "ML testing platform provider, not an e-commerce company."
+    },
+    {
+      "company": "Sun RH",
+      "website": "sun-e.fr",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3754,
+      "reason": "HR management software provider, not an e-commerce company."
+    },
+    {
+      "company": "DataTorch",
+      "website": "datatorch.io",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3753,
+      "reason": "ML data tools and platform provider, not an e-commerce company."
+    },
+    {
+      "company": "US Foods",
+      "website": "usfoods.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3718,
+      "reason": "Food distribution company, not an e-commerce retailer using Shopify or similar platforms."
+    },
+    {
+      "company": "EcoExpert Green Consulting",
+      "website": "ecoexpert.green",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3717,
+      "reason": "ESG consulting service provider, not an e-commerce company."
+    },
+    {
+      "company": "Comet",
+      "website": "comet.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3711,
+      "reason": "Provides AI/ML software tools, not an e-commerce company using Shopify or similar platforms."
+    },
+    {
+      "company": "Silver Spur",
+      "website": "silverspurcorp.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3704,
+      "reason": "Manufactures and supplies packaging products, not an e-commerce company using Shopify."
+    },
+    {
+      "company": "Wipro",
+      "website": "wipro.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3699,
+      "reason": "Provides IT consulting and services, not an e-commerce company using Shopify."
+    },
+    {
+      "company": "Pandapé",
+      "website": "pandape.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3692,
+      "reason": "Develops HR software solutions, not an e-commerce company using Shopify."
+    },
+    {
+      "company": "Atos",
+      "website": "atos.net",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3677,
+      "reason": "IT services and digital transformation provider, not an e-commerce company using Shopify."
+    },
+    {
+      "company": "Microtis",
+      "website": "microtis.lu",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3675,
+      "reason": "Develops HR management software, not an e-commerce company using Shopify."
+    },
+    {
+      "company": "Etiq AI",
+      "website": "etiq.ai",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3646,
+      "reason": "Software provider for AI/ML pipelines, not an e-commerce company using Shopify or similar platforms."
+    },
+    {
+      "company": "BrightLNK",
+      "website": "brightlnk.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3643,
+      "reason": "Supply chain and engineering services company, not an e-commerce retailer using Shopify or similar platforms."
+    },
+    {
+      "company": "BrandSafway",
+      "website": "brandsafway.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3639,
+      "reason": "Industrial and construction services provider, not an e-commerce company using Shopify or similar platforms."
+    },
+    {
+      "company": "NimbleBox",
+      "website": "nimblebox.ai",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3633,
+      "reason": "MLOps software platform provider, not an e-commerce company using Shopify or similar platforms."
+    },
+    {
+      "company": "Telefónica Venture Builder",
+      "website": "telefonica.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3624,
+      "reason": "Venture builder and digital innovation service provider, not an e-commerce company using Shopify or similar platforms."
+    },
+    {
+      "company": "Factorial",
+      "website": "factorialhr.de",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3611,
+      "reason": "HR software solution provider, not an e-commerce company using Shopify or similar platforms."
+    },
+    {
+      "company": "Vectice",
+      "website": "vectice.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3599,
+      "reason": "Data science documentation platform provider, not an e-commerce company using Shopify or similar platforms."
+    },
+    {
+      "company": "CGI",
+      "website": "cgi.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3597,
+      "reason": "IT consulting and software development company, not an e-commerce company using Shopify or similar platforms."
+    },
+    {
+      "company": "ZenLabs",
+      "website": "zenlabs.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3595,
+      "reason": "Data science and digital transformation service provider, not an e-commerce company using Shopify or similar platforms."
+    },
+    {
+      "company": "Tata Consultancy Services",
+      "website": "tcs.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3562,
+      "reason": "IT consulting and software services company, not an e-commerce company using Shopify or similar platforms."
+    },
+    {
+      "company": "OSCAR",
+      "website": "oscars.ro",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3556,
+      "reason": "Petroleum and fuel products distributor, not an e-commerce company using Shopify or similar platforms."
+    },
+    {
+      "company": "Capgemini",
+      "website": "capgemini.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3543,
+      "reason": "Management and IT consulting company, not an e-commerce company using Shopify or similar platforms."
+    },
+    {
+      "company": "Brasov Industrial Portfolio",
+      "website": "brasov-industrialportfolio.ro",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3538,
+      "reason": "Logistics and warehousing facility provider, not an e-commerce company using Shopify or similar platforms."
+    },
+    {
+      "company": "METRO România",
+      "website": "metro.ro",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3527,
+      "reason": "Wholesale grocery distributor, not an e-commerce company using Shopify or similar platforms."
+    },
+    {
+      "company": "Auvergnat Cola",
+      "website": "auvergnatcola.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3518,
+      "reason": "Beverage manufacturer and distributor, not an e-commerce company using Shopify or similar platforms."
+    }
+  ],
+  "Renewable energy equipment manufacturers in Scandinavia": [
+    {
+      "company": "Climatico",
+      "website": "climatico.dk",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.6554,
+      "reason": "Produces and manufactures wind turbines, solar panels, and renewable energy equipment in Denmark, perfectly matching the query."
+    },
+    {
+      "company": "Thyborøn Sydhavn 2 | Vestas-mølle",
+      "website": "thybsydhavnmolle-2.dk",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.6527,
+      "reason": "Manufactures, operates, and maintains wind turbines in Denmark, directly matching the query for renewable energy equipment manufacturers in Scandinavia."
+    },
+    {
+      "company": "World Wide Wind",
+      "website": "worldwidewind.no",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.6401,
+      "reason": "Develops and manufactures floating offshore wind turbines in Norway, perfectly matching the query for renewable energy equipment manufacturers in Scandinavia."
+    },
+    {
+      "company": "Sol Industries",
+      "website": "sol-ind.com",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.6274,
+      "reason": "Manufactures micro wind turbines for renewable energy in Norway, directly matching the query for renewable energy equipment manufacturers in Scandinavia."
+    },
+    {
+      "company": "windainergy",
+      "website": "windainergy.com",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.6135,
+      "reason": "Manufactures small-scale wind turbines and AI-optimized wind power systems in Sweden, perfectly matching the query."
+    },
+    {
+      "company": "Tesla Ocean Turbine",
+      "website": "teslaoceanturbine.com",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.6003,
+      "reason": "Manufactures tidal energy turbine equipment in Sweden, directly matching the query for renewable energy equipment manufacturers in Scandinavia."
+    },
+    {
+      "company": "EWP Windtower Production",
+      "website": null,
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.5966,
+      "reason": "Manufactures wind turbine towers and steel structures for wind power equipment in Sweden, directly matching renewable energy equipment manufacturing in Scandinavia."
+    },
+    {
+      "company": "Pellbin Turbine",
+      "website": "pellbin.se",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.595,
+      "reason": "Manufactures ocean and tidal current turbines in Sweden, directly matching renewable energy equipment manufacturing in Scandinavia."
+    },
+    {
+      "company": "MantaWind",
+      "website": null,
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.5929,
+      "reason": "Manufactures vertical axis floating wind turbines and provides wind turbine installation in Sweden, directly matching renewable energy equipment manufacturers in Scandinavia."
+    },
+    {
+      "company": "Erikshester Vindpark",
+      "website": "vindparken.se",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.5839,
+      "reason": "Manufactures and operates wind turbines in Sweden, directly matching renewable energy equipment manufacturers in Scandinavia."
+    },
+    {
+      "company": "Liftra",
+      "website": "liftra.com",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.5817,
+      "reason": "Manufactures wind turbine installation equipment and related machinery for renewable energy sector in Denmark, perfect geographic and functional match."
+    },
+    {
+      "company": "Logic-Energy",
+      "website": "teunhulst.nl",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.5794,
+      "reason": "Manufactures small wind turbines and renewable energy products in Denmark, directly matches query requirements."
+    },
+    {
+      "company": "Ventum Dynamics",
+      "website": "ventumdynamics.com",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.5771,
+      "reason": "Manufactures wind turbines and energy storage systems in Norway, perfect match for renewable energy equipment manufacturing in Scandinavia."
+    },
+    {
+      "company": "Norwin Energy",
+      "website": "norwinenergy.com",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.5624,
+      "reason": "Manufactures wind turbines and related renewable energy equipment in Denmark, direct match to query."
+    },
+    {
+      "company": "Finnwind",
+      "website": "finnwind.fi",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.5589,
+      "reason": "Manufactures wind turbines and solar power plants in Finland (Scandinavia), directly matching the query intent."
+    },
+    {
+      "company": "Fred. Olsen 1848",
+      "website": "fredolsen1848.com",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.554,
+      "reason": "Manufactures floating wind turbine foundations and develops wind/solar technologies in Norway (Scandinavia)."
+    },
+    {
+      "company": "Norhybrid Renewables",
+      "website": "norhybrid.com",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.5509,
+      "reason": "Manufactures wind turbines and hybrid power systems combining wind and solar in Norway (Scandinavia)."
+    },
+    {
+      "company": "Bioener",
+      "website": null,
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.5457,
+      "reason": "Designs, manufactures, and commissions biomass-fired energy plants in Denmark, directly manufacturing renewable energy equipment."
+    },
+    {
+      "company": "Wave Dragon",
+      "website": "wavedragon.com",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.5414,
+      "reason": "Manufactures offshore floating power plants with wave and wind turbines in Denmark, perfectly matching renewable energy equipment manufacturing."
+    },
+    {
+      "company": "Verta",
+      "website": null,
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.5394,
+      "reason": "Manufactures small-scale vertical axis wind turbines in Norway, directly producing renewable energy equipment."
+    },
+    {
+      "company": "Vestas",
+      "website": "vestas.com",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.5372,
+      "reason": "Global manufacturer of wind turbines and renewable energy solutions based in Denmark, perfectly matching the query."
+    },
+    {
+      "company": "Againity",
+      "website": "againity.com",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.5368,
+      "reason": "Manufactures ORC turbines and battery energy storage systems for renewable energy in Sweden, operating across Scandinavia."
+    },
+    {
+      "company": "WindSpider",
+      "website": "windspider.com",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.5108,
+      "reason": "Manufactures wind turbine lifting equipment and renewable energy solutions in Norway, perfect match."
+    },
+    {
+      "company": "Kraftkar Energi",
+      "website": "kraftkarenergi.no",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.5019,
+      "reason": "Manufactures solar panels and renewable energy equipment in Norway, perfect match."
+    },
+    {
+      "company": "Enercon",
+      "website": null,
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.4962,
+      "reason": "Manufactures wind turbines in Sweden, directly matching the query."
+    },
+    {
+      "company": "Envision Energy Denmark",
+      "website": null,
+      "match": true,
+      "llm_score": 4,
+      "emb_score": 0.683,
+      "reason": "Manufactures and develops wind turbines and smart wind turbine systems in Denmark, matching the query intent, though some offerings are services rather than pure equipment manufacturing."
+    },
+    {
+      "company": "ENERCON",
+      "website": null,
+      "match": true,
+      "llm_score": 4,
+      "emb_score": 0.6152,
+      "reason": "Manufactures wind energy equipment and operates in renewable energy sector in Sweden, though description emphasizes power generation over equipment manufacturing."
+    },
+    {
+      "company": "Winergy Finland",
+      "website": null,
+      "match": true,
+      "llm_score": 4,
+      "emb_score": 0.6098,
+      "reason": "Manufactures wind turbine components and supplies equipment to manufacturers in Finland, though primarily component-focused rather than complete turbine manufacturing."
+    },
+    {
+      "company": "BayWa r.e. Scandinavia",
+      "website": null,
+      "match": true,
+      "llm_score": 4,
+      "emb_score": 0.5945,
+      "reason": "Manufactures solar and wind hardware and semiconductor components for renewable energy in Sweden, matching the equipment manufacturer criteria."
+    },
+    {
+      "company": "CIRKEL Energi",
+      "website": "cirkelenergi.dk",
+      "match": true,
+      "llm_score": 4,
+      "emb_score": 0.5926,
+      "reason": "Manufactures and installs solar panels, wind turbines, and battery systems in Denmark, matching renewable energy equipment manufacturers in Scandinavia."
+    },
+    {
+      "company": "KVA Wind",
+      "website": "kva-vind.dk",
+      "match": true,
+      "llm_score": 4,
+      "emb_score": 0.5867,
+      "reason": "Manufactures and installs residential wind turbines in Denmark, matching renewable energy equipment manufacturers in Scandinavia."
+    },
+    {
+      "company": "Magnora",
+      "website": "magnoraasa.com",
+      "match": true,
+      "llm_score": 4,
+      "emb_score": 0.5851,
+      "reason": "Manufactures renewable energy hardware and develops wind energy projects across Scandinavia, matching equipment manufacturer and developer criteria."
+    },
+    {
+      "company": "VASOL TECH",
+      "website": "vasol.se",
+      "match": true,
+      "llm_score": 4,
+      "emb_score": 0.5824,
+      "reason": "Manufactures solar panels and energy storage systems for renewable energy in Sweden, matching renewable energy equipment manufacturers in Scandinavia."
+    },
+    {
+      "company": "Sunnytek",
+      "website": "sunnytek.se",
+      "match": true,
+      "llm_score": 4,
+      "emb_score": 0.5819,
+      "reason": "Manufactures solar panels, inverters, and renewable energy equipment in Sweden, though revenue is very low and some offerings are tangential to core query."
+    },
+    {
+      "company": "Effecta Energy Solutions",
+      "website": "effecta.se",
+      "match": true,
+      "llm_score": 4,
+      "emb_score": 0.5639,
+      "reason": "Manufactures solar panels, biomass boilers, and heating equipment in Sweden, though primary focus includes non-renewable heating alongside renewable solutions."
+    },
+    {
+      "company": "Sola Markis & Persienn",
+      "website": "solamarkis.se",
+      "match": true,
+      "llm_score": 4,
+      "emb_score": 0.5604,
+      "reason": "Manufactures solar panels and renewable energy products in Sweden, though retail operations suggest some distribution focus."
+    },
+    {
+      "company": "JN-Solar",
+      "website": "jn-solar.fi",
+      "match": true,
+      "llm_score": 4,
+      "emb_score": 0.5586,
+      "reason": "Manufactures solar panels, small wind turbines, and renewable energy equipment in Finland (Scandinavia)."
+    },
+    {
+      "company": "Sowin Power",
+      "website": "sowinpower.no",
+      "match": true,
+      "llm_score": 4,
+      "emb_score": 0.5584,
+      "reason": "Manufactures power stations combining solar panels and wind turbines in Norway (Scandinavia)."
+    },
+    {
+      "company": "DEIF Wind Power Technology",
+      "website": null,
+      "match": true,
+      "llm_score": 4,
+      "emb_score": 0.5576,
+      "reason": "Manufactures wind turbine control systems and components in Denmark (Scandinavia), though primarily components rather than full equipment."
+    },
+    {
+      "company": "Ecopwr",
+      "website": "ecopwr.se",
+      "match": true,
+      "llm_score": 4,
+      "emb_score": 0.5545,
+      "reason": "Manufactures solar panels and renewable energy products in Sweden (Scandinavia)."
+    },
+    {
+      "company": "Krefter",
+      "website": "krefter.no",
+      "match": true,
+      "llm_score": 4,
+      "emb_score": 0.5466,
+      "reason": "Manufactures renewable energy solutions including hydropower and solar systems in Norway, though primary focus is data center operations rather than equipment manufacturing."
+    },
+    {
+      "company": "Sembakken",
+      "website": "sembakken.dk",
+      "match": true,
+      "llm_score": 4,
+      "emb_score": 0.5315,
+      "reason": "Manufactures and installs photovoltaic panels and solar energy systems in Denmark, though installation services are also primary offering."
+    },
+    {
+      "company": "BlueTec Vest",
+      "website": "bluetecvest.no",
+      "match": true,
+      "llm_score": 4,
+      "emb_score": 0.528,
+      "reason": "Manufactures solar panels, inverters, and renewable energy systems in Norway, though installation services are equally emphasized."
+    },
+    {
+      "company": "Alotta",
+      "website": "alotta.no",
+      "match": true,
+      "llm_score": 4,
+      "emb_score": 0.5234,
+      "reason": "Manufactures floating photovoltaic systems and renewable energy hardware in Norway, though services component is significant."
+    },
+    {
+      "company": "Lundeseter Solcellepark",
+      "website": "lscp.no",
+      "match": true,
+      "llm_score": 4,
+      "emb_score": 0.5189,
+      "reason": "Manufactures solar panels and develops solar energy projects in Norway, directly matching the query."
+    },
+    {
+      "company": "Folksol",
+      "website": "folksol.se",
+      "match": true,
+      "llm_score": 4,
+      "emb_score": 0.5126,
+      "reason": "Manufactures solar panels, smart batteries, and off-grid energy systems in Sweden, meeting the criteria."
+    },
+    {
+      "company": "Varmalämmitys",
+      "website": "varmalammitys.fi",
+      "match": true,
+      "llm_score": 4,
+      "emb_score": 0.5083,
+      "reason": "Manufactures biomass boilers and renewable energy equipment in Finland, meeting the criteria."
+    },
+    {
+      "company": "Rögle Vindkraftpark",
+      "website": null,
+      "match": true,
+      "llm_score": 4,
+      "emb_score": 0.5079,
+      "reason": "Manufactures and constructs wind turbines and supplies solar equipment in Sweden."
+    },
+    {
+      "company": "Rhino Power",
+      "website": "rhinopower.fi",
+      "match": true,
+      "llm_score": 3,
+      "emb_score": 0.5565,
+      "reason": "Manufactures renewable energy equipment in Finland but description lacks specificity on equipment types."
+    },
+    {
+      "company": "BRF Vivstavarvsvägen",
+      "website": "vivstavarvsvagen.se",
+      "match": true,
+      "llm_score": 3,
+      "emb_score": 0.5484,
+      "reason": "Manufactures and installs solar panels in Sweden (Scandinavia) but appears to be primarily a residential/rooftop contractor."
+    },
+    {
+      "company": "International Wind Energy",
+      "website": null,
+      "match": false,
+      "llm_score": 2,
+      "emb_score": 0.6813,
+      "reason": "Primarily markets and sells equipment rather than manufacturing; also includes investment services and semiconductor manufacturing which dilutes equipment manufacturing focus."
+    },
+    {
+      "company": "Next Fabrication",
+      "website": "nextfabrication.com",
+      "match": false,
+      "llm_score": 2,
+      "emb_score": 0.6337,
+      "reason": "Manufactures component parts and subassemblies for renewable energy equipment rather than complete renewable energy equipment itself."
+    },
+    {
+      "company": "Home Energy",
+      "website": "homeenergy.se",
+      "match": false,
+      "llm_score": 2,
+      "emb_score": 0.5783,
+      "reason": "Primarily distributes and provides services for renewable energy products rather than manufacturing equipment themselves."
+    },
+    {
+      "company": "Fastnet",
+      "website": "fastnet.se",
+      "match": false,
+      "llm_score": 2,
+      "emb_score": 0.5641,
+      "reason": "Primarily provides engineering, procurement, and logistics services rather than manufacturing renewable energy equipment."
+    },
+    {
+      "company": "SVENO",
+      "website": "sveno.no",
+      "match": false,
+      "llm_score": 2,
+      "emb_score": 0.5402,
+      "reason": "Primarily provides fastening solutions and services for wind turbines rather than manufacturing the renewable energy equipment itself."
+    },
+    {
+      "company": "IKM InWind",
+      "website": null,
+      "match": false,
+      "llm_score": 2,
+      "emb_score": 0.522,
+      "reason": "Primarily a service provider for maintenance and inspection, not a manufacturer of renewable energy equipment itself."
+    },
+    {
+      "company": "Puhuri",
+      "website": "puhuri.fi",
+      "match": false,
+      "llm_score": 2,
+      "emb_score": 0.496,
+      "reason": "Primarily develops and operates power plants rather than manufactures renewable energy equipment."
+    },
+    {
+      "company": "DEIF",
+      "website": "deif.com",
+      "match": false,
+      "llm_score": 2,
+      "emb_score": 0.4949,
+      "reason": "Manufactures power control and management systems, not renewable energy equipment itself, and located in Denmark not Scandinavia proper."
+    },
+    {
+      "company": "Siemens Energy",
+      "website": null,
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.5611,
+      "reason": "Located in Finland, which is not part of Scandinavia (Scandinavia comprises Sweden, Norway, and Denmark)."
+    },
+    {
+      "company": "Navitas",
+      "website": "nace.dk",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.5517,
+      "reason": "Primarily an engineering consultancy firm, not a manufacturer of renewable energy equipment."
+    }
+  ],
+  "Companies that manufacture or supply critical components for electric vehicle battery production": [
+    {
+      "company": "CIDEcell",
+      "website": "cidecell.com",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.5574,
+      "reason": "Directly manufactures critical battery components including customized electrodes, cathode materials, anode materials, and cells specifically for lithium-ion and other battery chemistries used in EVs."
+    },
+    {
+      "company": "Sepion Technologies",
+      "website": "sepiontechnologies.com",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.5312,
+      "reason": "Manufactures lithium-ion and lithium-metal battery separators, which are critical components in EV battery production, and collaborates directly with cell and component manufacturers."
+    },
+    {
+      "company": "RJETech",
+      "website": null,
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.5252,
+      "reason": "Vertically integrated manufacturer producing critical EV battery components including cathode and anode materials, battery cells, modules, and battery management systems."
+    },
+    {
+      "company": "RJETech",
+      "website": "rjetech.com",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.514,
+      "reason": "Manufactures battery cells, cathode materials, and battery systems for electric vehicles, directly producing critical components for EV battery production."
+    },
+    {
+      "company": "Nascent Materials",
+      "website": "nascentmaterials.com",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.5048,
+      "reason": "Directly manufactures LFP and LMFP cathode materials, which are critical components in EV battery production, with explicit focus on the U.S. lithium-ion battery supply chain."
+    },
+    {
+      "company": "SolidEdge Solution",
+      "website": "solidedgesolution.com",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.4991,
+      "reason": "Manufactures solid-state battery components including cathodes, anodes, and solid electrolyte films, which are critical components for EV battery production."
+    },
+    {
+      "company": "Shenzhen Atsm Energy",
+      "website": "atsmlab.en.alibaba.com",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.4882,
+      "reason": "Manufactures and supplies critical EV battery production components including anode materials, electrolytes, precursor powders, and battery production line equipment."
+    },
+    {
+      "company": "Dongdao New Energy",
+      "website": "dongdaochina.cn",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.4853,
+      "reason": "Manufactures and supplies critical EV battery components including graphite anode materials and electrolytes specifically for electric vehicle and energy storage battery production."
+    },
+    {
+      "company": "Solid Power",
+      "website": "solidpowerbattery.com",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.483,
+      "reason": "Manufactures and supplies sulfide solid electrolytes and solid-state battery cells specifically for electric vehicle battery production, serving automotive OEM partners."
+    },
+    {
+      "company": "Blue New Energy Technology",
+      "website": "lionteam.com.cn",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.4828,
+      "reason": "Manufactures critical lithium-ion battery materials including composite separator films and solid electrolytes supplied directly to the battery production industry."
+    },
+    {
+      "company": "QuantumScape",
+      "website": "quantumscape.com",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.4696,
+      "reason": "Manufactures solid-state lithium-metal batteries and solid ceramic electrolyte separators specifically for electric vehicle applications, qualifying as both a battery and critical component manufacturer."
+    },
+    {
+      "company": "Stratus Materials",
+      "website": "stratusmaterials.com",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.4639,
+      "reason": "Manufactures cobalt-free manganese-rich cathode active materials specifically for lithium-ion batteries used in electric vehicles, supplying critical components to battery manufacturers and OEMs."
+    },
+    {
+      "company": "Mitra Chem",
+      "website": "mitrachem.com",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.4633,
+      "reason": "Manufactures iron-based cathode materials including LFP chemistries specifically for electric vehicle and energy storage battery production, supplying OEMs and battery cell producers."
+    },
+    {
+      "company": "Altmin",
+      "website": "altmin.in",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.4619,
+      "reason": "Manufactures cathode and anode materials including LFP, LMFP, and LTO chemistries for lithium-ion EV batteries, operating a dedicated cathode gigafactory for the EV sector."
+    },
+    {
+      "company": "E-Lyte",
+      "website": "e-lyte.de",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.457,
+      "reason": "Directly manufactures and supplies electrolyte solutions, which are critical components for lithium-ion and next-generation EV battery production."
+    },
+    {
+      "company": "FeovaEnergy",
+      "website": "feovaenergy.com",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.4531,
+      "reason": "Manufactures and supplies cathode materials, anode materials, electrolyte solvents, and lithium salts, all critical components for EV battery production."
+    },
+    {
+      "company": "Nanjing Blue Solid New Energy",
+      "website": "liongo.com.cn",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.4492,
+      "reason": "Manufactures and wholesales solid-state and lithium-ion battery electrolytes, which are critical components for EV battery production."
+    },
+    {
+      "company": "Indonesia BTR New Energy Material",
+      "website": null,
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.4413,
+      "reason": "Manufactures lithium-ion battery anode and cathode materials using nano carbon technology, directly supplying critical components for EV battery production."
+    },
+    {
+      "company": "Hunan Yueneng New Energy Battery Material Co., Ltd.",
+      "website": "hunanyuneng.com",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.4325,
+      "reason": "Specializes in manufacturing and supplying LFP and ternary cathode materials directly to automotive and energy storage battery manufacturers, making it a direct supplier of critical EV battery components."
+    },
+    {
+      "company": "BTR New Material Group",
+      "website": null,
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.4277,
+      "reason": "Manufactures and supplies critical cathode and anode materials for lithium-ion batteries used in electric vehicles, directly matching the query."
+    },
+    {
+      "company": "RUSTOR",
+      "website": "russianstorage.ru",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.4234,
+      "reason": "Manufactures and supplies cathode materials based on lithium complex oxides directly to the lithium-ion battery manufacturing sector, a critical component for EV battery production."
+    },
+    {
+      "company": "Yide New Energy",
+      "website": "hunanyide.com",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.4219,
+      "reason": "Manufactures lithium-ion battery anode materials specifically supplied to the electric vehicle sector, directly qualifying as a critical component supplier for EV battery production."
+    },
+    {
+      "company": "You Shan Technology",
+      "website": "youshan.com",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.4202,
+      "reason": "Manufactures and supplies lithium iron phosphate and related cathode materials specifically for new energy vehicles and energy storage, directly matching the query."
+    },
+    {
+      "company": "Shan Shan Technology",
+      "website": "shanshantech.com",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.4099,
+      "reason": "Manufactures and supplies lithium-ion battery anode materials including for power batteries used in electric vehicles, directly qualifying as a critical component manufacturer."
+    },
+    {
+      "company": "GuTai Battery Technology",
+      "website": "goodtimebattery.com",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.4059,
+      "reason": "Manufactures solid-state electrolytes and other key materials for lithium-ion and sodium batteries, qualifying as a manufacturer of critical EV battery components."
+    },
+    {
+      "company": "BASF Shanshan Battery Materials",
+      "website": null,
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.4053,
+      "reason": "Manufactures and supplies lithium battery cathode materials serving automotive markets globally, directly qualifying as a critical component supplier for EV battery production."
+    },
+    {
+      "company": "Li Hongte",
+      "website": "lihongte.com",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.3998,
+      "reason": "Manufactures and supplies lithium iron phosphate and ternary cathode materials specifically for electric vehicle battery manufacturing, directly matching the query."
+    },
+    {
+      "company": "Taibang New Energy",
+      "website": "ctlne.com",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.3907,
+      "reason": "Directly manufactures solid-state lithium batteries and key lithium battery materials targeting the automotive and EV sector."
+    },
+    {
+      "company": "Hengchuang",
+      "website": "hengtron.com",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.3881,
+      "reason": "Manufactures and supplies LMFP lithium battery cathode materials specifically for EV and new energy vehicle battery producers."
+    },
+    {
+      "company": "Rongbai Lithium Battery",
+      "website": "ronbaymat.com",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.3855,
+      "reason": "Specializes in the manufacturing and supply of lithium battery cathode materials to battery manufacturers in the automotive and new energy sectors."
+    },
+    {
+      "company": "Shanshan Technology",
+      "website": "shanshan.fi",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.3795,
+      "reason": "Manufactures and supplies lithium battery anode materials for the automotive/EV market from its European production base in Finland."
+    },
+    {
+      "company": "Kunlun New Materials",
+      "website": "kunlunchem.com.cn",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.379,
+      "reason": "Develops and manufactures lithium-ion battery electrolytes specifically for electric vehicles and holds IATF16949 automotive certification."
+    },
+    {
+      "company": "Zhejiang Shengmei Lithium Battery Materials",
+      "website": "zjsmld.com",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.3607,
+      "reason": "Directly manufactures Lithium Bis(fluorosulfonyl)imide, a critical electrolyte additive for lithium-ion batteries used in EV battery production."
+    },
+    {
+      "company": "Sili Energy",
+      "website": "silienergy.kr",
+      "match": true,
+      "llm_score": 5,
+      "emb_score": 0.351,
+      "reason": "Directly manufactures silicon and lithium-based cathode materials and solid-state battery materials specifically targeting the EV sector, making it a perfect match."
+    },
+    {
+      "company": "Greenbatt Technology",
+      "website": "greenbatt.ch",
+      "match": true,
+      "llm_score": 4,
+      "emb_score": 0.5066,
+      "reason": "Manufactures battery cells and composite cathodes for EVs using proprietary technologies, qualifying as a manufacturer of critical components for EV battery production."
+    },
+    {
+      "company": "Poly Energy",
+      "website": "polyenergy.tech",
+      "match": true,
+      "llm_score": 4,
+      "emb_score": 0.4954,
+      "reason": "Manufactures critical battery components including polymer solid-state electrolytes, composite LFP cathodes, and lithium metal anodes targeting EV and automotive battery applications."
+    },
+    {
+      "company": "NexTech Batteries",
+      "website": "nextechbatteries.com",
+      "match": true,
+      "llm_score": 4,
+      "emb_score": 0.4948,
+      "reason": "Develops and manufactures lithium-sulfur batteries and critical components including coated separators, cathode systems, and solid-state electrolytes for vehicle electrification applications."
+    },
+    {
+      "company": "Fengyang Pengen",
+      "website": "pennenergy.cn",
+      "match": true,
+      "llm_score": 4,
+      "emb_score": 0.4863,
+      "reason": "Vertically integrated manufacturer of lithium-ion battery components including cathode materials and electrolytes used in EV battery production, though primary focus is on finished battery packs rather than supplying components to other manufacturers."
+    },
+    {
+      "company": "Hisun",
+      "website": "thehisun.com",
+      "match": true,
+      "llm_score": 4,
+      "emb_score": 0.4802,
+      "reason": "Manufactures and distributes critical battery materials including electrolytes, silicon carbon anode materials, and additives used in EV battery production, though serves multiple sectors beyond automotive."
+    },
+    {
+      "company": "Charge CCCV",
+      "website": "chargecccv.com",
+      "match": true,
+      "llm_score": 4,
+      "emb_score": 0.4522,
+      "reason": "Develops and manufactures cathode chemistries and battery technologies for electric mobility, including supply chain management for battery materials, qualifying as a critical component manufacturer."
+    },
+    {
+      "company": "Anda Technology",
+      "website": "ad-lib.cn",
+      "match": true,
+      "llm_score": 4,
+      "emb_score": 0.4475,
+      "reason": "Manufactures lithium-ion battery cathode materials and battery cells for electric vehicles, qualifying as a supplier of critical components for EV battery production."
+    },
+    {
+      "company": "POLYENTECH",
+      "website": "polyentech.com",
+      "match": true,
+      "llm_score": 4,
+      "emb_score": 0.4453,
+      "reason": "Manufactures solid-state electrolytes and Li-rich Mn-based cathode materials, which are critical components for EV battery production including new energy vehicles."
+    },
+    {
+      "company": "Hunan TianTai TianRun New Energy Technology",
+      "website": "tttrnet.com",
+      "match": true,
+      "llm_score": 4,
+      "emb_score": 0.4302,
+      "reason": "Manufactures lithium iron phosphate cathode material precursors and produces lithium-ion battery materials, qualifying as a supplier of critical components for EV battery production."
+    },
+    {
+      "company": "Rusaccum",
+      "website": "rusaccum.ru",
+      "match": true,
+      "llm_score": 4,
+      "emb_score": 0.4266,
+      "reason": "Produces materials and battery cells for lithium-ion batteries with specific focus on electric and hybrid vehicle applications, qualifying as a manufacturer of critical EV battery components."
+    },
+    {
+      "company": "Wanbang New Energy",
+      "website": "scusne.com",
+      "match": true,
+      "llm_score": 4,
+      "emb_score": 0.4041,
+      "reason": "Manufactures cathode materials, electrolyte materials, and solid-state battery components for energy applications, qualifying as a manufacturer of critical EV battery components."
+    },
+    {
+      "company": "Nuvvon",
+      "website": "nuvvon.com",
+      "match": true,
+      "llm_score": 4,
+      "emb_score": 0.3709,
+      "reason": "Manufactures solid-state lithium metal batteries and develops polymer electrolyte materials, which are critical components/products for EV battery production."
+    },
+    {
+      "company": "Xinliyuan",
+      "website": "jsxlytech.com",
+      "match": true,
+      "llm_score": 4,
+      "emb_score": 0.3632,
+      "reason": "Manufactures and supplies solid-state electrolyte materials and lithium battery raw materials, which are critical components for EV battery production."
+    },
+    {
+      "company": "ReFire_ev",
+      "website": null,
+      "match": false,
+      "llm_score": 2,
+      "emb_score": 0.52,
+      "reason": "Primarily distributes and supplies EV batteries and charging infrastructure as finished products rather than manufacturing critical components used in battery production."
+    },
+    {
+      "company": "Zakuro",
+      "website": "zakurobattery.com",
+      "match": false,
+      "llm_score": 2,
+      "emb_score": 0.4351,
+      "reason": "Primarily focused on developing solid-state lithium battery technology rather than manufacturing or supplying critical components to other EV battery producers, with only 3 employees suggesting no meaningful production scale."
+    },
+    {
+      "company": "Ecopwr",
+      "website": "ecopwr.se",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3918,
+      "reason": "Ecopwr retails and manufactures consumer solar and power products but does not manufacture or supply critical components specifically for EV battery production."
+    },
+    {
+      "company": "BrandSafway",
+      "website": "brandsafway.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3885,
+      "reason": "BrandSafway provides industrial scaffolding and construction services with no involvement in manufacturing or supplying EV battery components."
+    },
+    {
+      "company": "CIRKEL Energi",
+      "website": "cirkelenergi.dk",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3831,
+      "reason": "CIRKEL Energi installs and resells solar panels, wind turbines, and energy storage systems for end users and does not manufacture or supply EV battery components."
+    },
+    {
+      "company": "Next Fabrication",
+      "website": "nextfabrication.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3811,
+      "reason": "Next Fabrication manufactures metal and composite parts for wind and solar energy systems, not for electric vehicle battery production."
+    },
+    {
+      "company": "EMCOR Group",
+      "website": "emcorgroup.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3765,
+      "reason": "EMCOR provides mechanical, electrical construction, and facility management services and does not manufacture or supply critical components for EV battery production."
+    },
+    {
+      "company": "Bechtel",
+      "website": "bechtel.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3628,
+      "reason": "Bechtel is an engineering, procurement, and construction company; it does not manufacture or supply critical components for EV battery production."
+    },
+    {
+      "company": "Volta Capital",
+      "website": "voltacapital.it",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3621,
+      "reason": "Volta Capital is a renewable energy consulting and project development firm with no involvement in manufacturing or supplying EV battery components."
+    },
+    {
+      "company": "PACE",
+      "website": "pace-energy.eu",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3573,
+      "reason": "PACE is a public-private project promoting fuel cell micro-cogeneration systems and does not manufacture or supply EV battery components."
+    },
+    {
+      "company": "Liftra",
+      "website": "liftra.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3565,
+      "reason": "Liftra manufactures lifting and transportation equipment for the wind energy sector, with no connection to EV battery component manufacturing or supply."
+    },
+    {
+      "company": "IKM InWind",
+      "website": null,
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3537,
+      "reason": "IKM InWind provides maintenance and inspection services for renewable energy infrastructure and does not manufacture or supply EV battery components."
+    },
+    {
+      "company": "Fluor",
+      "website": "fluor.com",
+      "match": false,
+      "llm_score": 1,
+      "emb_score": 0.3497,
+      "reason": "Fluor is an engineering, procurement, and construction services company and does not manufacture or supply critical components for EV battery production."
+    }
+  ]
+}
